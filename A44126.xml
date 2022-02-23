@@ -1,0 +1,896 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two sermons preach'd at the funerals of the Right Honourable Robert Lord Lexington and the Lady Mary his wife by Samuel Holden.</title>
+            <author>Holden, Samuel, fl. 1662-1676.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 116 KB of XML-encoded text transcribed from 30 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44126</idno>
+            <idno type="STC">Wing H2382</idno>
+            <idno type="STC">ESTC R28098</idno>
+            <idno type="EEBO-CITATION">10409674</idno>
+            <idno type="OCLC">ocm 10409674</idno>
+            <idno type="VID">44958</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44126)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 44958)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1386:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two sermons preach'd at the funerals of the Right Honourable Robert Lord Lexington and the Lady Mary his wife by Samuel Holden.</title>
+                  <author>Holden, Samuel, fl. 1662-1676.</author>
+               </titleStmt>
+               <extent>56 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Edwyn,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lexington, Robert Sutton, --  Baron, 1594-1668.</term>
+               <term>Lexington, Mary Sutton, --  Baroness.</term>
+               <term>Funeral sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="imprimatur">
+            <pb facs="tcp:44958:1"/>
+            <p>Imprimatur,</p>
+            <closer>
+               <date>Aug. 18. 1676.</date>
+               <signed>G. Jane, R.P.D. Hen. Epiſc. Lond. à Sacr. Dom.</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:44958:1"/>
+            <p>Two Sermons Preach'd at the FUNERALS Of the Right Honourable <hi>ROBERT</hi> LORD <hi>LEXINGTON,</hi> AND THE LADY <hi>MARY</hi> his WIFE.</p>
+            <p>By <hi>Samuel Holden</hi> A.M. late of <hi>Lincoln</hi> Colledge in <hi>Oxford</hi> and Chaplain to his Lordſhip, Deceaſed.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>J. Edwyn,</hi> at the <hi>Three Roſes</hi> in <hi>Ludgate-ſtreet.</hi> 1676.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:44958:2"/>
+            <pb n="1" facs="tcp:44958:2"/>
+            <head>A FUNERAL SERMON Upon the Right Honourable ROBERT Lord LEXINGTON, Who dyed <hi>Octob.</hi> 11. 1668. The SERMON being defer'd till <hi>Decemb.</hi> 21. Being the Day of his Birth.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>ECCLES. Chap. VII. Ver. 1.</hi>
+                  </bibl>
+                  <p>A good Name is better than precious Oyntment: And the day of Death, than the day of ones Birth.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>Heſe words of <hi>Conſolation</hi> call for the <hi>peruſal</hi> of <hi>Mourners;</hi> of <hi>Eyes,</hi> from which <hi>Tears</hi> muſt be <hi>wip'd away,</hi> e'r they can read them. <hi>Solo<g ref="char:EOLhyphen"/>mon</hi> deſigns the <hi>confutation</hi> of <hi>ſighs</hi> (eſpecially when <hi>inordinate</hi>) for <hi>good Men</hi> deceas'd, and to <hi>unlearn Survivors</hi> that obſtinate <hi>Grief,</hi> which <hi>Nature</hi> or the <hi>Faſhion</hi> may either <hi>feel</hi> or <hi>imitate.</hi>
+            </p>
+            <pb n="2" facs="tcp:44958:3"/>
+            <p> This <hi>Spectacle</hi> of <hi>Death</hi> ſeems to bid <hi>Mourn;</hi> and in the words of <hi>David</hi> to enquire, <hi>Know you not that there is a Great Man dead in</hi> Iſrael? But then the <hi>recellection</hi> of his <hi>life past,</hi> and the <hi>apprehenſion</hi> of his <hi>life preſent,</hi> counſel to refrain, and in the words of <hi>David</hi>'s <hi>Lord</hi> adviſe, <hi>Weep not for me, but weep for your ſelves.</hi> Which <hi>counſel</hi> I deſigning to <hi>enforce,</hi> ſelected this <hi>Poſition</hi> of <hi>David</hi>'s <hi>Son, A good Name is better than precious Oyntment,</hi> &amp;c.</p>
+            <p>Still, ſtill methinks <hi>the words</hi> do whiſper me, that there's no reaſon we ſhould be perplex'd with long deploring of the <hi>Good;</hi> But then methinks the <hi>Audi<g ref="char:EOLhyphen"/>ence</hi> whiſpers me, that there's no reaſon <hi>I</hi> ſhould per<g ref="char:EOLhyphen"/>plex my ſelf with long inſiſting upon that <hi>Advice;</hi> for <hi>ſhortneſs</hi> of Concern to <hi>ſome,</hi> and <hi>length</hi> of time to <hi>others,</hi> have already Preach'd my <hi>Introduction. I</hi> ſhall therefore addreſs my ſelf to the <hi>words, A good Name is better than Oyntment,</hi> &amp;c.</p>
+            <p>
+               <hi>A Bad Name,</hi> there is <hi>none</hi> ſo <hi>Bad</hi> to covet, though <hi>many</hi> deſign the Actions that deſerve it. <hi>A great Name most Men wiſh,</hi> though <hi>few</hi> attain ſucceſs ſo great as may atchieve it. The <hi>first</hi> of theſe the <hi>wicked</hi> have, <hi>Wiſd.</hi> 2.4. and the <hi>fooliſh deſerve,</hi> whil'ſt they by op<g ref="char:EOLhyphen"/>preſſion <hi>add field to field, and call their Lands after their own names,</hi> Pſal. 49.11. The <hi>ſecond,</hi> (viz. <hi>A Great Name</hi>) the <hi>Babel-builders</hi> deſir'd, <hi>Gen.</hi> 11.4. <hi>Let us get us a Name;</hi> the <hi>Jews</hi> were promis'd, <hi>Zeph.</hi> 3.19. <hi>I will get them praiſe and <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> in every Land;</hi> and the <hi>Gyants</hi> enjoy'd, being <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>Men of Renown,</hi> Gen. 6.4. <hi>Hero<gap reason="illegible: faint" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi> who burnt <hi>Diana's Temple,</hi> deſign'd this <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>esses the <hi>first;</hi> be<g ref="char:EOLhyphen"/>ing the proud <hi>C<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt<gap reason="illegible: faint" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>ed memory.</hi>
+            </p>
+            <p>And <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ny more ſtill <hi>hunt</hi> for?
+<pb n="3" facs="tcp:44958:3"/>what <hi>thouſands</hi> ſtrive to fill the World with <hi>noiſe?</hi> and ſtudiouſly expoſe their breath to <hi>dangers,</hi> to live in the ſurviving breath of <hi>others?</hi> This <hi>Name,</hi> when once grown guilty of decay, how boldly do Men ſtruggle to regain? making too oft a <hi>balſam</hi> of their own <hi>hearts blood,</hi> to cure a <hi>bleeding eſtimation.</hi> This <hi>Name</hi> how many <hi>Heathens</hi> have acquir'd? for <hi>Curtius,</hi> that his Name might find <hi>no Funeral,</hi> leap'd living in<g ref="char:EOLhyphen"/>to <hi>one;</hi> and
+<note n="(a)" place="margin">
+                  <hi>Hippo<g ref="char:EOLhyphen"/>botus,</hi> quoted by <hi>Diog. Laert.</hi> in vita <hi>Empe<g ref="char:EOLhyphen"/>doc is.</hi>
+               </note> 
+               <hi>Empedocles</hi> became a voluntary Loſer in his <hi>Perſon,</hi> to be a Gainer in his <hi>Memory;</hi> caſting himſelf alive into the flames of <hi>Aetna,</hi> to be talk'd on after Death; and dying the <hi>prey of fire,</hi> that he might live <hi>a life of ſmoke.</hi>
+            </p>
+            <p>But alas! what imports ſuch a <hi>Name</hi> to the <hi>Dead,</hi> which (beſides their want of fruition) is vary'd at the <hi>diſcretion</hi> of the <hi>living?</hi> How many Men have made their lives give <hi>light</hi> to others ſeeking Virtue in <hi>the dark,</hi> and left (when dead) bright beams of Fame to guide them? In which beams ſome Men ad<g ref="char:EOLhyphen"/>mire much luſtre; others find ſtrange <hi>alloyes</hi> of dark<g ref="char:EOLhyphen"/>neſs and of ſhade. Thus Life is ſucceeded by dubious reputation, as <hi>Daylights</hi> room's inherited by <hi>Moon<g ref="char:EOLhyphen"/>ſhine;</hi> in which ſome <hi>kind Spectators</hi> ſee a <hi>Man;</hi> ſome <hi>idle heads</hi> a <hi>Buſh;</hi> and ſome a <hi>Dog.</hi> The breath which often makes up Mans repute, obtains the fate of <hi>common Air,</hi> returning what <hi>wholſome</hi> or <hi>infected lungs</hi> ſhall make it. Concerning the <hi>Apoſtles</hi> (even alive) ſome in <hi>amazement</hi> cry
+<note n="(b)" place="margin">Acts. 1.12.</note>, <hi>What meaneth this?</hi> But others in <hi>deriſion, They are fall of new Wine.</hi>
+            </p>
+            <p>But could the <hi>world</hi> be <hi>ſo little</hi> the <hi>world,</hi> as to be uniform and conſtant in its opinions; yet what's a <hi>Name</hi> that's <hi>only Great?</hi> It is a <hi>Monument</hi> built, like
+<pb n="4" facs="tcp:44958:4"/>ſtupendious <hi>Pyramids,</hi> more for Mens <hi>wonder,</hi> than their <hi>approbation. Fame</hi> is a <hi>noiſe</hi> reſembling that of <hi>Thunder,</hi> which rattles in our ears, and makes no Muſick; <hi>'Tis Goodneſs gives the reliſh.</hi>
+            </p>
+            <div type="part">
+               <head>A Good Name.</head>
+               <p>Now ev'ry <hi>Name</hi> that's <hi>Great,</hi> is not ſtill <hi>Good;</hi> nay, a <hi>Great Name</hi> is very often <hi>Bad;</hi> whil'ſt a Mans ſenſe of his own <hi>power</hi> and <hi>glory</hi> enclines him to act by <hi>pre<g ref="char:EOLhyphen"/>ſumption,</hi> conceiving himſelf ſecure from controul: As <hi>Heathens</hi> in <hi>Lawrels</hi> defi'd <hi>Thunder. Herod</hi> had a Name as <hi>great,</hi> as he had Virtue <hi>little.</hi> The <hi>Chimney</hi> is the <hi>higheſt</hi> part of the Houſe, and 'tis the <hi>fouleſt</hi> too. Good Names are the acquiſitions of <hi>Goodneſs,</hi> not of <hi>Power;</hi> of <hi>Triumphs</hi> over <hi>Vices,</hi> not over <hi>Kingdoms.</hi> 'Tis <hi>Moderation,</hi> not <hi>Titles, muſt be known unto all men</hi>
+                  <note n="(c)" place="margin">Phil. 4.5.</note>. Thoſe make Menlive the <hi>Slaves</hi> of <hi>Epithites,</hi> and dye perhaps the <hi>Martyrs</hi> of <hi>Orations,</hi> and <hi>ſlattering Inſcriptions.</hi>
+               </p>
+               <p>'Tis true <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> in the Text, only imports <hi>a Name,</hi> and the <hi>Hebrew</hi> omits this Attribute of <hi>Good,</hi> it being the addition of the <hi>Septuagint,</hi> or <hi>vulgar Latin,</hi> or elſe (as <hi>Lorinus</hi> ſayes) of the <hi>Chaldee.</hi>
+               </p>
+               <p>But though the <hi>word's</hi> not in the <hi>Original,</hi> the <hi>Senſe</hi> is <hi>there.</hi> It is the <hi>Good, Eccleſiaſtes</hi> means; for Names no more than <hi>Great,</hi> are not ſo uſeful as to outvalue <hi>precious Oyntment;</hi> they ſeldom live before the <hi>Owners</hi> dye; and then each enjoyes them but the Men that ſhould. But <hi>a Good Name,</hi> though it ſurvive the Man, and though himſelf be ſenſleſs of the rumor; yet he poſſeſſes the reſult of all thoſe Actions that ac<g ref="char:EOLhyphen"/>quir'd it, being happy by them; and what though
+<pb n="5" facs="tcp:44958:4"/>other Men alone diſcern the <hi>clinking,</hi> if I enjoy the <hi>treaſure?</hi>
+               </p>
+               <p>Beſides, <hi>Solomon</hi> muſt needs mean a <hi>Good Name,</hi> be<g ref="char:EOLhyphen"/>cauſe none but of <hi>Power</hi> and <hi>Eminence</hi> gain <hi>Great Ones;</hi> But even the <hi>mean</hi> and <hi>poor</hi> may reach to that repute, which is <hi>(to them)</hi> better than <hi>Oyntment;</hi> and which way may that be, but by being good? That's not the atchievement of the <hi>brawny arm</hi> alone, the <hi>feeble knees</hi> may have it? 'Tis not a thing ſo proud, as ever to incloſe it ſelf in <hi>Cedar;</hi> but is oft the Tenant to low Roofs and <hi>Cottages;</hi> whil'ſt <hi>Lazarus</hi> is a Name better than <hi>Julius Caeſar.</hi>
+               </p>
+               <p>A <hi>Great Name</hi> ſo differs from a <hi>Good Name,</hi> as a <hi>Great Man</hi> does from a <hi>Good Man;</hi> and whatſoever Virtue Man may diſcern in Man, proportionably enti<g ref="char:EOLhyphen"/>tles him to that Appellative of <hi>Good.</hi> Now <hi>that ſtile, that title,</hi> ſhould be all Mens Avarice
+<note n="(d)" place="margin">
+                     <hi>Negli<g ref="char:EOLhyphen"/>gere quid de ſe quiſque ſen<g ref="char:EOLhyphen"/>tiat, non ſo<g ref="char:EOLhyphen"/>lummodo arro<g ref="char:EOLhyphen"/>gantis eſt, ſed omnino diſſo<g ref="char:EOLhyphen"/>luti.</hi> Cic.</note>, though it proves few Mens Riches; 'tis all Mens <hi>love,</hi> though it be few Mens <hi>ſtudy;</hi> 'tis <hi>Warmth</hi> in the <hi>Winter; Sunſhine</hi> in the <hi>Grave;</hi> the <hi>Emulation</hi> of the <hi>Wiſe;</hi> and the <hi>Envy</hi> of <hi>Fools. A Good Name is</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Better than Oyntment,</head>
+               <p>Now by <hi>Oyntment,</hi> ſome (with <hi>Olympiodorus</hi>) un<g ref="char:EOLhyphen"/>derſtand,</p>
+               <p>I. <hi>To flow in Riches and Delights;</hi> reflecting upon that of <hi>David, Thou hast put gladneſs in my heart, more than when their Wine and Oyl increaſed,</hi> as 'tis in our <hi>Service-Tranſlation</hi> of <hi>Pſal.</hi> 4.8. This the <hi>Pſalmist</hi> elſewhere expreſſes by <hi>Rivers of Oyl;</hi> the ſame word being there render'd, <hi>Oyl,</hi> which is here, <hi>Oyntment.</hi>
+                  <pb n="6" facs="tcp:44958:5"/>Nay, the very word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> is in this very place Tran<g ref="char:EOLhyphen"/>ſlated by the <hi>Septuagint</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>good Oyl;</hi> which we (with <hi>Symmachus</hi>) teach to ſpeak as much as <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>precious oyntment,</hi> or rather indeed, <hi>oynt<g ref="char:EOLhyphen"/>ment of a good ſavour;</hi> which ſome (as I ſaid) ex<g ref="char:EOLhyphen"/>pound, <hi>Riches,</hi> &amp;c.</p>
+               <p>
+                  <hi>Theſe</hi> indeed are <hi>oyls</hi> or <hi>oyntments;</hi> but (like that of the
+<note n="(e)" place="margin">Eccl. 10.1.</note> 
+                  <hi>Apothecary</hi>) full of drown'd Flies: <hi>In<g ref="char:EOLhyphen"/>fatuated</hi> men (the ſons of <hi>Eaſe</hi> and <hi>Sunſhine</hi>) periſh here. Here indeed (according to holy <hi>David</hi>'s lan<g ref="char:EOLhyphen"/>guage) <hi>Rivers of oyl</hi> may be; and ſuch as flow, like <hi>Pactolus,</hi> upon <hi>golden Sands.</hi> Here you may ſurvey the proſperous rich man's ſtate; upon thoſe Rivers Banks we have a <hi>Landtſchape</hi> of Elms tall and fair, and without fruit; of <hi>Tantalus</hi> his Apples, glorious to the eye, to raiſe a diſtant expectation, and deceive approach; our Saviour's <hi>Fig-tree,</hi> of a <hi>tempting</hi> ſhew, and <hi>curs'd; Job's Vine,</hi> which ſhakes its <hi>Grapes</hi> off, yet unripe; his <hi>Olive</hi> too, miſcarrying in its <hi>flowers</hi>
+                  <note n="(f)" place="margin">Job 15.33.</note>; and <hi>Jonah</hi>'s <hi>Gourd,</hi> for <hi>ſhade</hi> without <hi>duration:</hi> And here ſleeps wealthy man, and here he dies; and oft unfortunately dies amidſt delights: like an <hi>unweildy</hi> body, which <hi>ſinks deep</hi> where the <hi>ground's ſoft.</hi>
+               </p>
+               <p>The <hi>Greeks</hi> perhaps might have their <hi>wealth</hi> more literally term'd <hi>oyntment;</hi> who, by expenſive unction of their heads, at once betray'd their riches, and laid them out; which practice was derided by <hi>Diogenes,</hi> anointing his own feet, and crying out, That
+<note n="(g)" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> Diog. Laert. in vita Diog.</note> 
+                  <hi>oynt<g ref="char:EOLhyphen"/>ment on the head lost all its virtue in the Air, but from the feet ſent up its ſweets into the Noſtrils.</hi> But alas! this made them ſweet beneath the ſex of men, waſting their reputation with their unguents; whil'ſt, grown effeminate, they often left their <hi>names</hi> the <hi>ſacrifices</hi> to
+<pb n="7" facs="tcp:44958:5"/>
+                  <hi>perfumes</hi> and <hi>ſweet conſiſtencies.</hi> Beſides, what kind<g ref="char:EOLhyphen"/>neſs could this do them in the Land of <hi>Moles</hi> and <hi>Piſmires,</hi> where all their odors found a Grave with them?</p>
+               <p>But <hi>a good Name perfumes the breath of Children, and Childrens Children.</hi> The wealthy may awhile <hi>blaze</hi> in the world with much <hi>ſhew,</hi> and ſome <hi>heat;</hi> and in a while, like <hi>dying Coals,</hi> cover themſelves with <hi>Aſhes,</hi> when <hi>Death</hi> (their <hi>univerſal Night</hi>) approa<g ref="char:EOLhyphen"/>ches; But a <hi>good Name</hi> ſurvives in <hi>gleams</hi> of light, and <hi>glows</hi> to long <hi>poſterity. A good Name is better than riches,</hi> Prov. 22.1. That's one ſort of <hi>oyl</hi> or <hi>oyntment;</hi> but a <hi>good Name</hi> is better than that, and better alſo</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Than Oyntment,</hi> which</head>
+               <p>II. <hi>Is us'd in the anointing Kings;</hi> for in this place the <hi>Chalde Paraphraſe</hi> underſtands, by <hi>Oyntment, Supe<g ref="char:EOLhyphen"/>riority</hi> and <hi>Rule. Saul</hi> was <hi>thus anointed</hi>
+                  <note n="(h)" place="margin">1 Sam. 10.</note>: And his Succeſſors had it, in a manner, as the <hi>Sacrament</hi> of their <hi>Authority.</hi>
+               </p>
+               <p>
+                  <hi>Superiority</hi> and <hi>Rule?</hi> This, this is Ambition's <hi>gay encouragement;</hi> when
+<note n="(i)" place="margin">
+                     <hi>Plutarch.</hi> in vitâ <hi>Marii.</hi>
+                  </note> 
+                  <hi>Marius</hi> thinks that <hi>GREATEST</hi> is a ſtyle much better than <hi>BEST;</hi> when men fill ſplendid outſides, with black and hor<g ref="char:EOLhyphen"/>rid inſides; (not much unlike thoſe odd Intruders into Myſteries, that place Hell in the Body of the Sun) when men regard not how much Devils they prove, ſo that each man may ſtand on a high Moun<g ref="char:EOLhyphen"/>tain, and cry, <hi>All this is mine.</hi>
+               </p>
+               <p>But, though even harmleſly acquir'd, what's <hi>Dig<g ref="char:EOLhyphen"/>nity?</hi> It makes men <hi>wonder,</hi> and it makes men <hi>envy;</hi>
+                  <pb n="8" facs="tcp:44958:6"/>whil'ſt they <hi>look up</hi> to wiſh the Owner lower. By this men ſwell into a <hi>Power publick enough to have whole Kingdoms curſe them. Men in mean garments</hi> may perhaps be ſlain; but 'tis, like <hi>Ahab</hi>
+                  <note n="(k)" place="margin">1 Kings 22. ver. 34.</note>, with a <hi>Bow drawn at adventure:</hi> But <hi>men in Robes are ſhot at with deſign;</hi> and all, like <hi>Syrians,</hi> level all their <hi>darts</hi> at <hi>gay</hi> Jehoſhaphat
+<note n="(l)" place="margin">1 Kings 22. ver. 32.</note> 
+                  <hi>O Dignity!</hi> if right<g ref="char:EOLhyphen"/>ly weigh'd, an odious Priviledge! By this men have a right to ride before, like <hi>Poſtillions</hi> of the world, for all the <hi>Beaſts</hi> that <hi>follow</hi> to <hi>beſpatter:</hi> So that it well may be unwiſh'd in life; but 'twill at <hi>Death</hi> be ſurely <hi>unenjoy'd. Man ſhall carry nothing with him when he dyeth, neither ſhall his pomp follow him
+<note n="(m)" place="margin">Pſal. 49.17.</note>. I have ſaid ye are gods, but ye ſhall dye like men, &amp;c,</hi>
+                  <note n="(n)" place="margin">Pſal. 82. ver. 6,7.</note>. Or elſe perhaps dye like the <hi>god</hi> in the <hi>Fable,</hi> which every Frog dares trample and diſdain, when he per<g ref="char:EOLhyphen"/>ceives him to lie ſtill.</p>
+               <p>But a <hi>good Name</hi> (the poor man's ſole felicity) makes even the <hi>poor</hi> a <hi>Prince;</hi> and ſo much more a <hi>Prince,</hi> by how much more <hi>belov'd</hi> than <hi>fear'd;</hi> and even interr'd he is obey'd by good men (if not in <hi>par<g ref="char:EOLhyphen"/>ticular commands,</hi> yet) in his <hi>publick example;</hi> for <hi>imi<g ref="char:EOLhyphen"/>tation</hi> may be one ſort of <hi>obedience.</hi> And ſo lying ſtill; <hi>Glorioſa ſatis requieſcit urna. A good Name is better</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Than Oyntment,</hi> which</head>
+               <p>III. Is us'd in <hi>Funerals. <note n="(o)" place="margin">
+                        <hi>Mos antiquitùs ſuit ut Nobi<g ref="char:EOLhyphen"/>lium Corpora ſepelienda ungerentur, &amp; cum aro<g ref="char:EOLhyphen"/>matibus ſepe<g ref="char:EOLhyphen"/>lirentur</hi>
+                     </note> Eucherius Lugdu<g ref="char:EOLhyphen"/>nenſis</hi> tells us, <hi>'Twas an ancient custom to anoint Bodies to be buried, and to interr them with perfumes.</hi> And this the <hi>Jews</hi> (as <hi>Caſaubon</hi>
+                  <note n="(p)" place="margin">
+                     <hi>Caſaub. Exerc. in Bar. Annal.</hi>
+                  </note> obſerves) deriv'd from the <hi>Egyptians.</hi> Some think this <hi>Solemnity</hi> atten<g ref="char:EOLhyphen"/>ded with <hi>exenteration,</hi> or embowelling for <hi>keeping;</hi>
+                  <pb n="9" facs="tcp:44958:6"/>But although this was <hi>cuſtomary</hi> in <hi>Egyptian Pollin<g ref="char:EOLhyphen"/>ctures;</hi> yet have we not ground to conclude the <hi>Jews</hi> their Scholars in the practice; the <hi>Septuagint,</hi> skill'd in the <hi>Jewiſh cuſtoms,</hi> uſing for <hi>anointing</hi> (not ſo much <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, as) <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, which meerly does im<g ref="char:EOLhyphen"/>port an unction: ſo that, amongſt the <hi>Jews,</hi> the un<g ref="char:EOLhyphen"/>guents ſeem not ſo much intended for the conſerva<g ref="char:EOLhyphen"/>tion of the <hi>dead,</hi> as to intimate the kind regards of the <hi>living;</hi> to which, in all probability, our Saviour refers, in ſaying, <hi>She has beforehand anointed my body to the burial</hi>
+                  <note n="(q)" place="margin">Mark 14.8.</note>.</p>
+               <p>But what's this to a <hi>good Name?</hi> What was this practice, but a <hi>fond employment,</hi> to deck the Body up in gaudy garments, when 'twas to take a <hi>journy</hi> in the <hi>dark; to go hence and be no more ſeen.</hi> They ſeem'd to take great care, leſt they ſhould prove <hi>annoyance</hi> to the <hi>Worms,</hi> or bring a ſavor which might be offen<g ref="char:EOLhyphen"/>ſive to the curiouſneſs of ſome Neighbor carkaſs. But (which abates the value of this <hi>oyntment) Fools</hi> might buy it, and <hi>Knaves</hi> ſell it; Survivers frequent<g ref="char:EOLhyphen"/>ly beſtow'd it upon thoſe in <hi>Death,</hi> whoſe <hi>Lives</hi> (of all the world) they would the leaſt deſire ſhould be repeated. The <hi>Ignorant</hi> might dye ſupply'd of this; and, when they lay down in the Bed of duſt, might ſleep as ſweet as <hi>Socrates.</hi>
+               </p>
+               <p>But it is one <hi>good quality</hi> of <hi>a good Name,</hi> that 'tis the wiſe man's purchaſe; and vouchſafed in his death, only to thoſe whoſe lives men lov'd. This is an <hi>Oynt<g ref="char:EOLhyphen"/>ment,</hi> which, <hi>when the waters are come in, almost unto our Souls, ſtill floats above;</hi> and makes the wiſe eſteem himſelf out of the <hi>reach</hi> of <hi>drowning;</hi> like <hi>Oyl,</hi> it heals the wounds bad times inflict; like <hi>Oyl,</hi> 'twill keep us ſafe, although perhaps <hi>repute</hi> may be attempt<g ref="char:EOLhyphen"/>ed
+<pb n="10" facs="tcp:44958:7"/>to be <hi>venom'd with the poyſon of Aſps which lies under ſome lips. A good Name is better than precious Oyntment,</hi> and</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>The day of Death,</hi> better <hi>than the day of one's Birth.</hi>
+               </head>
+               <p>
+                  <hi>Zeno</hi> thought Life and Death in themſelves <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>things indifferent;</hi> becauſe whatever in it ſelf is <hi>bad,</hi> can by no circumſtance be <hi>render'd good;</hi> and whatſoever in it ſelf is <hi>good</hi>
+                  <note n="(r)" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. Diog. Laert. in vita <hi>Zen.</hi>
+                  </note>, he thought it was <hi>not in our power to uſe,</hi> either ill or well at plea<g ref="char:EOLhyphen"/>ſure. But be they things indifferent in themſelves, or be they not; this is moſt certain, that there is no ſuch felicity in Life, as may juſtifie our <hi>cuſtomary fondneſs</hi> in it; or horror in Death (I mean <hi>abſtracted from ſin and its conſequences) as may countenance our gene<g ref="char:EOLhyphen"/>ral averſion from it</hi>
+                  <note n="(s)" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. Menand</note>. Nay, when compar'd with Life, <hi>Death</hi> may look <hi>temptingly;</hi> ſurely a <hi>great</hi> and <hi>aged Judge</hi> of <hi>Beauty informs</hi> us, that it has the bet<g ref="char:EOLhyphen"/>ter <hi>features, Death is better than Birth,</hi> better there<g ref="char:EOLhyphen"/>fore than <hi>Life.</hi> 'Tis of more friendſhip too; or if in Death be ought of enmity (ſince 'tis ſaid, <hi>the last Enemy that ſhall be deſtroyed is
+<note n="(t)" place="margin">1 Cor. 15.</note> Death</hi>) we may defeat it by dying ere it comes; though living in Chriſt by Faith, yet dying to Sin by Repentance; which may be much improv'd, even by contemplation upon Death; thus conquering Death, by minding Death; killing it ſelf, with it ſelf; like the <hi>Athenians,</hi> who (before defenceleſs) made themſelves walls of <hi>Tombs</hi> and <hi>Graveſtones.</hi>
+               </p>
+               <p>Now <hi>Deaths Priviledges lie,</hi>
+               </p>
+               <p n="1">I. <hi>In what it ends.</hi>
+               </p>
+               <p n="2">II. <hi>In what it begins.</hi>
+               </p>
+               <div n="1" type="section">
+                  <pb n="11" facs="tcp:44958:7"/>
+                  <head>I. <hi>In what it ends.</hi>
+                  </head>
+                  <p>S<hi rend="sup">t</hi> 
+                     <hi>Jerom</hi> inſtances in the impriſonment in the Body from which <hi>Death</hi> delivers the Soul: Although per<g ref="char:EOLhyphen"/>haps the poſture of the Soul, <hi>in ſtate of ſeparation,</hi> may not ſo properly be reputed freedom, ſince 'tis a property fix'd to its eſſence, to be (in ſuch a ſtate) deſirous of reunion. Inſomuch that ſome (in that place of S<hi rend="sup">t</hi> 
+                     <hi>Peter</hi>
+                     <note n="(u)" place="margin">1 Pet. 3.19.</note> concerning Chriſt's Preach<g ref="char:EOLhyphen"/>ing to the Spirits in Priſon) have render'd <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <hi>expectation;</hi> making the ſeparated ſtate of humane Spirits a Priſon, becauſe they are debar'd the ſatisfa<g ref="char:EOLhyphen"/>ction of their ſo natural inclinations. But however, with S<hi rend="sup">t</hi> 
+                     <hi>Jerom,</hi>
+                  </p>
+                  <p n="1">1. <hi>Death puts a period to uncertainty and doubt;</hi> to which our <hi>Birth</hi> entitles us, making the wiſe unſure what we may prove; and Fools miſread the Alpha<g ref="char:EOLhyphen"/>bet of Heaven, to find what Letters make our future Fortunes. <hi>By Birth</hi> we enter into Life ſo dubious, that <hi>Pyrrho</hi> and the <hi>Scepticks</hi> doubted not to doubt of every thing, and to reſolve all <hi>knowledge</hi> into <hi>ſcruple</hi> and <hi>conjecture.</hi>
+                  </p>
+                  <p>Through all the parts of time, with <hi>Solomon,</hi> we live uncertain of our time, <hi>and know not what a day may bring forth.</hi> We all are ſtrong <hi>Idolaters</hi> of <hi>to morrow;</hi> neglecting well to manage preſent time, by our too great anxiety for the future, for hours which we preſume ſhall come, but which (for ought we know) the Sun ſhall never live to make; For who can tell but ev'ry Night may cloſe his eye, and <hi>hang</hi> the world <hi>in mourning</hi> for his <hi>death?</hi>
+                  </p>
+                  <pb n="12" facs="tcp:44958:8"/>
+                  <p> 
+                     <hi>
+                        <g ref="char:V">Ʋ</g>ncertain</hi> are we in our <hi>Friends,</hi> like <hi>Amaſa</hi>
+                     <note n="(w)" place="margin">2 Sam. 20.9.</note>, or <hi>Julius Caeſar,</hi> we well may periſh the <hi>deluded Sacri<g ref="char:EOLhyphen"/>fices</hi> of <hi>pretended Brothers,</hi> or <hi>adopted Sons;</hi> For <hi>Na<g ref="char:EOLhyphen"/>tures</hi> do not ever anſwer <hi>Names;</hi> nor is it alwayes <hi>Truth</hi> which <hi>tempts</hi> our <hi>eye-ſight</hi> with the faireſt <hi>Print.</hi>
+                  </p>
+                  <p>
+                     <hi>
+                        <g ref="char:V">Ʋ</g>ncertain</hi> are we in <hi>Enjoyments. Riches make themſelves wings,</hi> wings (like the Butterfly's) gilded and flutt'ring, and unreſolv'd how to beſtow them<g ref="char:EOLhyphen"/>ſelves: They, from the <hi>good,</hi> oft travel to the <hi>bad;</hi> oft do they quit a <hi>Roſe,</hi> hover awhile, then light up<g ref="char:EOLhyphen"/>on a <hi>Thiſtle.</hi>
+                  </p>
+                  <p>
+                     <hi>
+                        <g ref="char:V">Ʋ</g>ncertain</hi> is our <hi>Health;</hi> the <hi>ſlave of weather;</hi> va<g ref="char:EOLhyphen"/>ry'd with <hi>Heat</hi> and <hi>Cold;</hi> it ſhakes at a Froſt, and ſickens at a Sun-beam; whil'ſt poor Phyſicians, mor<g ref="char:EOLhyphen"/>tal as our ſelves, (the real <hi>Sons</hi> of our <hi>Infirmities,</hi> though the pretended <hi>Fathers</hi> of our <hi>Healths</hi>) offer at Reaſons to protract Man's life; and then themſelves dye to confute them.</p>
+                  <p>
+                     <hi>
+                        <g ref="char:V">Ʋ</g>ncertain</hi> are our <hi>Joyes,</hi> which (like <hi>Belſhazer</hi>'s) appear upon our faces, ſoon to be daſh'd with ſome ſurprize, ſome hand upon a wall; nay, <hi>Joy</hi> is ſo un<g ref="char:EOLhyphen"/>certain, that it is uncertain if ſuch a thing exiſt on this ſide Heaven.</p>
+                  <p>Nay more, <hi>
+                        <g ref="char:V">Ʋ</g>ncertain</hi> are even <hi>our ſelves,</hi> when we cannot confide, no not in our own <hi>diſpoſitions;</hi> but <hi>teach to morrow to repel thoſe Acts</hi> which <hi>yeſterday allow'd,</hi> and make <hi>this hour</hi> correct what ſeem'd diſ<g ref="char:EOLhyphen"/>cretion in <hi>the last;</hi> and that with ſome new wiſdom to be controll'd <hi>the next. All theſe,</hi> and <hi>more <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>certainties our Birth begins.</hi>
+                  </p>
+                  <p>But then comes <hi>certain Death, (for what man is he that lives, and ſhall not ſee
+<note n="(x)" place="margin">Pſal. 89.48.</note> Death?)</hi> and ſhuts
+<pb n="13" facs="tcp:44958:8"/>out all <hi>Contingencies.</hi> Man then enjoyes a bleſſed ſe<g ref="char:EOLhyphen"/>curity; But then it muſt be one, who (by a <hi>ſecond Birth</hi>) has gain'd exemption from a <hi>ſecond Death,</hi> for elſe his <hi>Certainty</hi> is diſmaller than <hi>Doubt.</hi> Man being <hi>dead,</hi> no more conſults the <hi>variable Moon;</hi> nor ſtudies <hi>Heaven,</hi> to miſtake his Fortunes upon <hi>Earth;</hi> no more regards the <hi>wind;</hi> for him, it ſtill may blow, and where it liſts may blow; no more, by <hi>doubting</hi> Friends, ſhall he deſerve to <hi>find</hi> them what he <hi>ſuſpects</hi> them; he then no more ſhall fear the <hi>wings</hi> of riches, nor <hi>clog</hi> them with his cares to ſtay their <hi>flight;</hi> no <hi>Mene Tekel</hi> then ſhall ſtartle him; nor ſhall he abate his <hi>pleaſures</hi> whil'ſt he has them, with dread leſt he too ſoon ſhould be without them; no more ſhall he di<g ref="char:EOLhyphen"/>ſtruſt his <hi>conſtitution,</hi> nor ask his <hi>trembling pulſes</hi> how he does; nor ſhall he any more have reaſon to dif<g ref="char:EOLhyphen"/>fide in his own reſolves.</p>
+                  <p n="2">2. <hi>Birth begins temporal miſery, Death ends that.</hi> Although the <hi>good</hi> are never <hi>truly wretched,</hi> yet few there are that make themſelves ſuch <hi>Monſters,</hi> as (in the common crowd) not to <hi>complain. 'Tis not alone at others Funerals</hi> that we contend to be in <hi>mourning;</hi> but each Man in his <hi>own loſſes</hi> purſues the <hi>faſhion,</hi> and, what he wants in <hi>woe,</hi> makes out in <hi>noiſe;</hi> he puts his Fortunes into <hi>black,</hi> to court his <hi>Neighbors pity;</hi> ſo that whil'ſt he cloaths his complaint with <hi>ſables</hi> (much above the quality and true eſtate of his exigence) he makes his <hi>miſery</hi> as it were his <hi>boast,</hi> and it appears more like the daughter of his <hi>pride,</hi> than his <hi>misfor<g ref="char:EOLhyphen"/>tune;</hi> as if <hi>Jeruſalem</hi>'s <hi>ſad exclamation</hi> became his mouth, <hi>Is there any ſorrow like unto my ſorrow</hi>
+                     <note n="(y)" place="margin">Lam. 1.12.</note>? Each mans particular <hi>unhappineſs</hi> is to his own eyes magnifi'd beyond the proportion of anothers <hi>ſuffer<g ref="char:EOLhyphen"/>ings.</hi>
+                     <pb n="14" facs="tcp:44958:9"/>What Man in pain, deems not his own diſtem<g ref="char:EOLhyphen"/>per moſt inſupportable? How many does misfortune urge to wiſh that to themſelves, which <hi>Hezekiah</hi> de<g ref="char:EOLhyphen"/>plores in others, <hi>That when they being Children came to the Birth, there had not been ſtrength to bring forth</hi>
+                     <note n="(z)" place="margin">2 Kings 19.3.</note>, even, with <hi>Job,</hi> unwiſhing their Nativities?</p>
+                  <p>When we contemplate humane miſery, and add (to that) the infirmity of our conſtitutions; <hi>Birth</hi> ſeems to render us as capable of wiſhing <hi>Death,</hi> as ſe<g ref="char:EOLhyphen"/>cure of meeting it. Nor ſeems <hi>Death</hi> only the deſign of <hi>Birth,</hi> but its near Kinſman too; for <hi>Death</hi> is <hi>Sleeps Brother,</hi> ſayes the <hi>Philoſopher;</hi> and <hi>Life's</hi> a <hi>Dream,</hi> ſayes the <hi>Preacher
+<note n="(a)" place="margin">Eccleſ. 6.</note>: A Dream</hi> (like <hi>Pharaohs</hi>) wherein Men (like Beaſts) devour each other, and the <hi>worſe</hi> the <hi>better;</hi> for <hi>bad</hi> Men proſper by defraud<g ref="char:EOLhyphen"/>ing <hi>good</hi> Men, yet ſtile they this deteſtable ſucceſs by the beloved name of <hi>good fortune;</hi> yet ev'n in this <hi>good fortune</hi> (beſides the guilt) what great unhap<g ref="char:EOLhyphen"/>pineſs lies hid? what tortures, and what agonies of thought? what nips of conſcience, and what keen re<g ref="char:EOLhyphen"/>flections? The ſplendid condition of evil Men, <hi>holy David</hi>
+                     <note n="(b)" place="margin">Pſal. 37.</note> reſembles to a <hi>flouriſhing green Tree;</hi> and in another <hi>Pſalm</hi> he ſtiles Man <hi>Graſs:</hi> Now rich Men grow, like Graſs under that Tree, much <hi>higher</hi> and much <hi>greener</hi> than the reſt; and <hi>ſowrer</hi> too by much, conſidering their ſins and cares; and oft too, <hi>ſhorter-liv'd</hi> by much, their too large growth inviting (as it were) <hi>Deaths fatal Sythe.</hi> Nor does <hi>Job</hi> mend the character of <hi>Life,</hi> when he compares it to a <hi>Poast;</hi> ſoon ends the Stage, after a reſtleſs journey full of <hi>haſte and dirt.</hi>
+                  </p>
+                  <p>But what a pleaſant place the Journey ends in? <hi>Why dread ye Death, the Begetter of Eaſe?</hi> ſayes <hi>Me<g ref="char:EOLhyphen"/>nander
+<pb n="15" facs="tcp:44958:9"/>
+                        <note n="(c)" place="margin">
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>. Men.</note>. What is Death? the laying down a heavy Burden,</hi> ſayes <hi>St Auſtin
+<note n="(d)" place="margin">
+                           <hi>Quid eſt Mors? Depo<g ref="char:EOLhyphen"/>ſitio Sarcin<gap reason="illegible: faint" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap> gravis.</hi> Aug.</note>. Bleſſed are the Dead, which dye in the Lord; from henceforth they rest from their labours,</hi> ſayes <hi>the Spirit</hi>
+                     <note n="(e)" place="margin">Rev. 14.13.</note>. This great advan<g ref="char:EOLhyphen"/>tage of <hi>Death,</hi> prompted <hi>Iſidorus Peluſiota</hi> to con<g ref="char:EOLhyphen"/>ceive that our <hi>Saviour</hi> wept not for the <hi>deceaſe</hi> of <hi>Lazarus;</hi> but becauſe (for the belief of the <hi>Jews</hi>) he was to reduce him to that <hi>Life (that vexatious Life)</hi> from which <hi>Death</hi> had abſolv'd him.</p>
+                  <p>The <hi>Grave</hi> at once ſhuts up Mans <hi>Corps,</hi> and <hi>Cares.</hi> Hid in the <hi>dark,</hi> there no <hi>misfortune</hi> finds him: The <hi>Drum</hi> ſhall beat, and yet his <hi>pulſe</hi> not <hi>ſtrike a ſtroke the faſter.</hi> The <hi>earth</hi> ſhall <hi>bluſh</hi> in her own childrens blood, for her own childrens ſpilling it; and yet his <hi>viſage</hi> ſuffer the <hi>complexion</hi> neither of <hi>ſhame</hi> nor <hi>fear. Sickneſs ſhall come, and mingle Fevers with warm Sun<g ref="char:EOLhyphen"/>ſhine;</hi> till each Neighbor dyes, at once his <hi>Neighbors wonder</hi> and <hi>example;</hi> till <hi>weary Graves</hi> implore the aid of more <hi>capacious Pits; yet</hi> the <hi>Dead</hi> ſhall ne're moleſt himſelf with ſeeking Sanctuary in ſome diſtant dwelling, where he may live a Coward to each ſtran<g ref="char:EOLhyphen"/>gers face, or dye the buſineſs of Deaths further tra<g ref="char:EOLhyphen"/>vel. <hi>Poverty</hi> ſhall come, and <hi>Want as an armed Man,</hi> and Friends (aſtoniſh'd at the ſight) withdraw like fearful Women; yet ſtill ſhall he lie void of <hi>want</hi> and <hi>care,</hi> amidſt the quiet company of his old Relations; in the <hi>embraces</hi> of <hi>corruption,</hi> to which he may ſay, <hi>Thou art my Mother;</hi> and of the <hi>Worms,</hi> to whom, <hi>Thou art my Siſter and Brother</hi>
+                     <note n="(f)" place="margin">Job 17.4.</note>. And this per<g ref="char:EOLhyphen"/>haps might be ſome reaſon why the <hi>Muſcovites</hi> (if we believe
+<note n="(g)" place="margin">
+                        <hi>Obſer<g ref="char:EOLhyphen"/>vantur Dies obitus, quem anniverſariis cele brant epu<g ref="char:EOLhyphen"/>lis.</hi> Sabel.Enn. 10. lib. 3.</note> 
+                     <hi>Sabellicus</hi>) do annually ſolemnize the <hi>Funerals</hi> of Friends, with no leſs pomp than ſome of us our <hi>Nuptials.</hi> And now, ſo <hi>kind</hi> is <hi>Death,</hi> ſo <hi>cruel,
+<pb n="16" facs="tcp:44958:10"/>Life;</hi> that he who <hi>covets this, deſerves</hi> not <hi>that;</hi> eſ<g ref="char:EOLhyphen"/>pecially if we conſider with <hi>Olympiodorus,</hi> that</p>
+                  <p n="3">3. <hi>By Birth we enter into a capacity of actual ſin, which (in the good) Death puts an end to.</hi> And could it but oblige the <hi>wicked</hi> ſo; the Learn'd ſup<g ref="char:EOLhyphen"/>poſe, that even to the <hi>Damn'd, Death would be better than Life;</hi> For <hi>penal</hi> Evil, <hi>viz. Suffering,</hi> is a leſs Evil than the <hi>moral, viz. Sinning,</hi> by how much leſs it op<g ref="char:EOLhyphen"/>poſes the Supreme Good; Sin, in the act, has no co<g ref="char:EOLhyphen"/>lours but what deſie God, but Suff'ring wears the Li<g ref="char:EOLhyphen"/>very of his Juſtice. So that, were but the <hi>Damn'd</hi> exempt from <hi>Sinning,</hi> their poſture were much better than this <hi>Life</hi> (which ſtill involves us in it) in ſpight of all their <hi>Suffering.</hi> But even as the <hi>Damn'd</hi> now are, or ever ſhall be, their <hi>Birth</hi> has nought to boaſt of over <hi>Death;</hi> for to whom e're it is not good to <hi>dye,</hi> it had been better he had ne're been <hi>born.</hi>
+                  </p>
+                  <p>But however, with the <hi>good</hi> the caſe is indiſputa<g ref="char:EOLhyphen"/>ble. His <hi>Death</hi> outdoes his <hi>Birth,</hi> by undoing <hi>Sin; Sin! Lifes Concubine</hi> (for it ne're lies from it) and <hi>Deaths Mother</hi> (for, the <hi>Apoſtle</hi> ſayes, <hi>it brings it forth</hi>) This <hi>Mother</hi> dyes in bringing forth the <hi>Daughter.</hi> The <hi>Viper</hi> makes her own <hi>Nativity</hi> her <hi>Dams Funeral,</hi> revenging on her the harm ſhe did the world, in the production of ſo dire an off-ſpring: Juſt ſo does <hi>Death</hi> deſtroy the cauſe of dying: The <hi>good,</hi> by <hi>ſuffering</hi> it, deſiſt to <hi>merit</hi> it; for they deſiſt to ſin.</p>
+                  <p>Hitherto we have conſider'd the <hi>Obligations</hi> of <hi>Death,</hi> in thoſe ills it determines; and <hi>Birth</hi> is ſwal<g ref="char:EOLhyphen"/>low'd up in <hi>Victory;</hi> now we muſt view,</p>
+               </div>
+               <div n="2" type="section">
+                  <pb n="17" facs="tcp:44958:10"/>
+                  <head>II. <hi>That great Good which it introduces.</hi>
+                  </head>
+                  <p>Like <hi>night,</hi> it blots out <hi>one</hi> day, to begin <hi>another;</hi> For <hi>Dying</hi> makes a Man immortal; and that great Argument, which proves him but a <hi>Man,</hi> promotes him to ſociety of <hi>Angels:</hi> But then, ſtill <hi>Death</hi> muſt be what <hi>Balaam</hi> wiſh'd, <hi>O that I might dye the Death of the Righteous!</hi> Man, by his <hi>Birth,</hi> aſſumes a Life, by which he <hi>lives</hi> in daily likelihood of no longer liv<g ref="char:EOLhyphen"/>ing; but he <hi>dyes</hi> into an <hi>incapacity</hi> of <hi>Dying. We know that we have a Houſe, not made with hands, eter<g ref="char:EOLhyphen"/>nal in the Heavens. WE KNOW,</hi> ſayes the <hi>Apo<g ref="char:EOLhyphen"/>ſtle</hi>
+                     <note n="(h)" place="margin">2 Cor. 5.1.</note>.</p>
+                  <p>But why then is it ſaid, <hi>WHO KNOWS,</hi> &amp;c? <hi>Eccleſ.</hi> 3.21.
+<note place="margin">
+                        <hi>Quaer.</hi>
+                     </note> Our Tranſlation is ſomewhat more fa<g ref="char:EOLhyphen"/>vourable than either the <hi>Greek</hi> or <hi>Latin,</hi> or indeed our ancient <hi>Engliſh Tranſlations;</hi> for, that which we read, <hi>Who knows the Spirit of Man that aſcendeth up<g ref="char:EOLhyphen"/>wards;</hi> They render, <hi>Who knows the Spirit of Man, if it aſcendeth upwards</hi>
+                     <note n="(i)" place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>; &amp;c. Septuag. Si Spiritus, &amp;c. vul. lat.</note>.</p>
+                  <p>Does then <hi>the learned Apoſtle</hi> contradict <hi>the wiſe King?</hi> Or was his knowledge improv'd beyond the reach of <hi>Solomons?</hi> One demands (and demanding, denies) <hi>Who knows?</hi> The other ſeems to reply, <hi>We know.</hi>
+                  </p>
+                  <p>To reconcile theſe places, the <hi>Scotiſts</hi> diſtinguiſh betwixt <hi>Knowledge</hi> by <hi>Divine Revelation,</hi> viz. <hi>Faith;</hi> and <hi>Knowledge</hi> by <hi>Natural Deduction,</hi> viz. <hi>Reaſon:</hi> And then they reply, that <hi>Eccleſiaſtes</hi> only demands this, <hi>Who knows BY REASON</hi> whether the <hi>Soul be immortal?</hi> And the Apoſtle tells us, That (although we may not attain the aſſurance of our Souls <hi>Ever<g ref="char:EOLhyphen"/>laſtingneſs</hi>
+                     <pb n="18" facs="tcp:44958:11"/>by Reaſon, yet) <hi>We know it by FAITH.</hi> But this <hi>Reply</hi> falls ſhort of ſatisfaction; nor can theſe Texts refer to the Souls <hi>Immortality</hi> alone; for of <hi>that</hi> even <hi>Socrates</hi> and <hi>Plato</hi> were ſufficiently ſe<g ref="char:EOLhyphen"/>cure, even by rational Collections: Nay, 'twas the general perſuaſion of Heathens; for who amongſt them apprehended not ſomething of <hi>bliſs,</hi> or <hi>pain,</hi> on the other ſide the Grave? And 'tis indeed very de<g ref="char:EOLhyphen"/>monſtrable (were it, at preſent, ſo convenient) <hi>that Humane Spirits are all Deathleſs.</hi> So that <hi>Lorinus</hi> con<g ref="char:EOLhyphen"/>ceives it only an <hi>Article of Faith</hi> to ſhallower Intel<g ref="char:EOLhyphen"/>lects, whoſe weakneſs craves the aſſiſtance of Divine Diſcoveries, to make them apprehend it. But never<g ref="char:EOLhyphen"/>theleſs, <hi>Dependance on Gods Word for the firm cre<g ref="char:EOLhyphen"/>dence of the Truth, is a practice more ſecure and com<g ref="char:EOLhyphen"/>mendable, even in the most acute capacities.</hi>
+                  </p>
+                  <p>But in Anſwer to this <hi>doubt, Solomon</hi> here <hi>(by aſ<g ref="char:EOLhyphen"/>cending upward)</hi> means but the ſame with that in his 12<hi rend="sup">th</hi> 
+                     <hi>Chapter</hi> of <hi>Eccleſiaſtes,</hi> Ver. 7. <hi>And the Spirit aſ<g ref="char:EOLhyphen"/>cendeth unto God who gave it;</hi> which imports, not on<g ref="char:EOLhyphen"/>ly the humane Spirits <hi>eternity,</hi> but alſo (if of the pi<g ref="char:EOLhyphen"/>ous) its <hi>felicity;</hi> not only its <hi>perpetuity,</hi> but alſo its <hi>place of abode</hi> in that perpetuity. And here indeed <hi>REASON falls ſhort,</hi> and <hi>FAITH flies home.</hi> The Heathens knew that their Souls ſhould not <hi>die;</hi> but how, or where they ſhould <hi>live,</hi> how ignorant were they? how unſatisfi'd? We may well ask with <hi>Solomon, Who knows,</hi> by <hi>REASON,</hi> the <hi>place</hi> and <hi>poſture</hi> of our Souls ſurviving? But yet we may an<g ref="char:EOLhyphen"/>ſwer with the <hi>Apoſtle, By FAITH we know, that, when this earthly Tabernacle ſhall be diſſolv'd; we have a Houſe, not made with hands, eternal in the Heavens.</hi>
+                  </p>
+                  <pb n="19" facs="tcp:44958:11"/>
+                  <p> This, with the reſt, are <hi>Deaths</hi> Priviledges. So that, although it be the <hi>rich</hi> and <hi>bad</hi> Mans <hi>Fury,</hi> yet 'tis the <hi>poor</hi> and <hi>good</hi> Mans <hi>Miſtriſs.</hi> The <hi>good</hi> Man courts her to <hi>advance</hi> his Fortune; <hi>I deſire to be diſ<g ref="char:EOLhyphen"/>ſolv'd, and to be with Christ, which is far better:</hi> The other, for his <hi>Sanctuary,</hi> and in his own defence. To both the <hi>Grave</hi> is advantageous, and to <hi>dye</hi> is <hi>gain.</hi> Better is their <hi>Death,</hi> than any natural thing that <hi>at<g ref="char:EOLhyphen"/>tended</hi> their <hi>Lives,</hi> and better than <hi>Birth</hi> that <hi>began</hi> them.</p>
+                  <p>But, though the Text be full of <hi>Conſolation</hi> to the <hi>dying</hi> Man, or his <hi>ſurviving</hi> Friends; though <hi>Death</hi> exceeds either our <hi>Birth</hi> or <hi>Life;</hi> Yet we muſt wear this <hi>Caution</hi> in our Boſomes, not <hi>wilfully</hi> and <hi>violently</hi> to exchange our <hi>Life</hi> for <hi>Death.</hi> We all muſt ſtudy to <hi>provide</hi> for <hi>Death,</hi> not to <hi>procure</hi> it. The encourage<g ref="char:EOLhyphen"/>ment will never <hi>juſtifie</hi> ſome bold Pretenders, who furiouſly <hi>lay hands</hi> upon themſelves; and <hi>court</hi> not <hi>Death,</hi> but <hi>raviſh</hi> her. 'Twas once indeed a <hi>Learned Mans</hi>
+                     <note n="(k)" place="margin">Dr <hi>Donn.</hi>
+                     </note> perſuaſion (though alter'd afterwards) That <hi>Self-murther did not any thing intrench on the Divine Authority, nor violate that great Command, Thou ſhalt not kill:</hi> preſuming <hi>that Injunction</hi> only re<g ref="char:EOLhyphen"/>lated to the Lives of others.</p>
+                  <p>But if to <hi>theirs,</hi> then alſo to our <hi>own;</hi> though not in <hi>Precept,</hi> yet in <hi>Preſuppoſal. Thou ſhalt love thy Neighbour as thy ſelf,</hi> is our Saviours <hi>Summary</hi> of the laſt <hi>Six Commandments:</hi> So that in our own Boſomes, we bear directions for our <hi>deportment</hi> towards others. Our Nature then being preſum'd <hi>averſe</hi> from wiſhing that we might be <hi>rob'd</hi> our ſelves, we are commanded therefore <hi>Not to Steal:</hi> So likewiſe in <hi>Falſe Witneſs</hi> and <hi>Defamation:</hi> and as in other <hi>Precepts,</hi> ſo in this;
+<pb n="20" facs="tcp:44958:12"/>it being preſuppos'd, that none would willingly anti<g ref="char:EOLhyphen"/>cipate his <hi>End,</hi> by engaging himſelf in his own <hi>Death;</hi> it follows therefore, <hi>Thou ſhalt not kill thy Neighbour.</hi> And how can that Command which preſuppoſes the <hi>Negative,</hi> permit the <hi>Poſitive?</hi> But what if mur<g ref="char:EOLhyphen"/>dering <hi>our ſelves,</hi> we murder <hi>others</hi> too? Examples oft contract <hi>a guilt</hi> by others imitation: And who can pronounce <hi>Brutus</hi> innocent of <hi>Portia</hi>'s blood, when ſhe learnt death of him, and dy'd enamor'd on the <hi>fatal Preſident</hi>
+                     <note n="(l)" place="margin">
+                        <hi>Plutach.</hi> in vita <hi>Bruti.</hi> in fine.</note>. Nay, what if I (in my own private fall) become a <hi>general Aſſaſſinate?</hi> For he that kills <hi>himſelf,</hi> does what he can to kill <hi>Mankind;</hi> and were the World as <hi>docile</hi> in ſins of pain and hor<g ref="char:EOLhyphen"/>ror (for <hi>horrid</hi> enough <hi>Death</hi> ſeems, though 'tis not ſo) as in guilt of other complexions, <hi>Killing</hi> might grow <hi>infections,</hi> till the Univerſe became but one <hi>Aceldama;</hi> one Man would dye his Neighbors <hi>de<g ref="char:EOLhyphen"/>ſtruction,</hi> and become a Rule for the next Man to <hi>ex<g ref="char:EOLhyphen"/>pire by;</hi> he to the next, and ſo throughout the <hi>ſpecìes,</hi> till ne're a <hi>vein</hi> were left in <hi>Humane Nature,</hi> to bleed the <hi>ſin</hi> over again.</p>
+                  <p>But though (as ſome may think) there ſhould be no intrenchment upon <hi>Gods Command,</hi> in Self-deſtru<g ref="char:EOLhyphen"/>ction; yet ſtands not his <hi>Veracity</hi> inviolate. For on what grounds could he aſſert, That Man remains un<g ref="char:EOLhyphen"/>certain of his latter end [<hi>man knoweth not his time</hi>
+                     <note n="(m)" place="margin">Eccleſ. 9.12.</note>;] if it be ſubject to his own diſpoſure? He that may be his own <hi>Executioner,</hi> may be his own <hi>Prophet</hi> too; and readily foretell that <hi>Fate,</hi> which he has <hi>liberty</hi> and <hi>power</hi> to make. Nor is this kind of Death (as <hi>Cato</hi> and <hi>others,</hi> fancy'd) the ſtrong reſult of <hi>generous ſpi<g ref="char:EOLhyphen"/>rits;</hi> but the offſpring of <hi>timorous diſpoſitions:</hi> For, though thoſe Tyrants over their own fleſh relented
+<pb n="21" facs="tcp:44958:12"/>not at thoſe <hi>Black Guards,</hi> which ſtill ſtood ready muſter'd in the <hi>vale</hi> of Death; yet dreaded they thoſe bloody Colours, which they ſaw diſplay'd againſt them on the <hi>Plains of Life;</hi> proclaiming to the world that they durſt <hi>dye,</hi> becauſe they were afraid to <hi>live.</hi> If this be <hi>Bravery</hi> and <hi>Courage, each Fool</hi> may be a <hi>Hero,</hi> with the aſſiſtance of <hi>misfortune,</hi> and a lit<g ref="char:EOLhyphen"/>tle <hi>peeviſhneſs;</hi> and though he lives, like <hi>Nabal,</hi> and folly with him, he may depart the world like a <hi>Coun<g ref="char:EOLhyphen"/>ſellor,</hi> and lie down in the <hi>dust</hi> as wiſely as <hi>Achito<g ref="char:EOLhyphen"/>phel.</hi>
+                  </p>
+                  <p>So that, although kind <hi>Death</hi> does make us Preſents richer than Life, yet we may not ſnatch at them. <hi>All the dayes of my appointed time will I wait till my change come.</hi> The great <hi>felicity</hi> we would atchieve, is loſt by eager and too hot purſuit. <hi>Death</hi> catches back its benefits (like <hi>Tantalus</hi>'s <hi>waters</hi>) from haſty and too violent endeavours. Thus we may make our <hi>Angel</hi> prove our <hi>Fiend.</hi> Sufferings have <hi>oft,</hi> Sin has <hi>ſome<g ref="char:EOLhyphen"/>times</hi> inſtructed penſive and dejected men to ſeek eaſe in the <hi>Grave;</hi> but they have <hi>lost</hi> it, by thus <hi>ſeeking</hi> it: nay, they have <hi>haſtened</hi> deſolation, and <hi>lengthned</hi> it to everlaſtingneſs. When Sins reduc'd to <hi>memory</hi> have wrought <hi>deſpair,</hi> and arm'd Men to their <hi>proper ruine;</hi> their ſtreams of <hi>grief</hi> have <hi>drown'd,</hi> where they ſhould but have <hi>waſh'd;</hi> their blood has then <hi>unſanctify'd</hi> their tears, and <hi>blotted out</hi> in fury what<g ref="char:EOLhyphen"/>ever good Lines <hi>Remorſe</hi> had written.</p>
+                  <p>Though <hi>Death</hi> be pleaſing, when 'tis well conſide<g ref="char:EOLhyphen"/>red; yet <hi>patient ſubmiſſion</hi> to Divine Decrees, is one great <hi>feature,</hi> which preſents her <hi>lovely.</hi> Whereof our memories may ſoon relapſe into a freſh example, and theſe Garments hang, like <hi>Phylacteries,</hi> to mind us of him.</p>
+                  <pb n="22" facs="tcp:44958:13"/>
+                  <p> Shall I ſay, <hi>his Name is better than Oyntment? than Oyl?</hi> And yet my Language ſhew not like <hi>the worst of Oyls, the Oyl of Flattery.</hi> Shall <hi>I</hi> attempt the <hi>de<g ref="char:EOLhyphen"/>ſcription</hi> of <hi>his</hi> Life? His <hi>Cheeks</hi> now cannot <hi>bluſh:</hi> How ſay you then? Shall I preſent you now, after his Death, with <hi>Catalogues</hi> of <hi>Epithites</hi> and Praiſes, which (though the virtues of <hi>his life</hi> deſerv'd, yet) one great virtue <hi>of his life, his modeſty,</hi> would not <hi>(in his life)</hi> have endur'd to hear? It is the <hi>cuſtom</hi> too; but be it ſo, <hi>too common</hi> therefore for <hi>deſert ſo ſingular.</hi> And it perhaps might blemiſh that <hi>great worth,</hi> ſhould I de<g ref="char:EOLhyphen"/>ſcribe it; for it might be ſaid, <hi>He liv'd beyond others, but was bury'd like them.</hi> Beſides, in publick to diſplay his Name, were to diſprove it rather; for by pretend<g ref="char:EOLhyphen"/>ing to give you a deſcription of his worth, I ſhould but ſeem to ſay, <hi>It was ſo little, that you before were un<g ref="char:EOLhyphen"/>acquainted with it.</hi>
+                  </p>
+                  <p>But I'le take leave to recommend to you ſome <hi>Worthies,</hi> to whoſe <hi>Renown</hi> moſt here perhaps are ſtrangers.</p>
+                  <p>
+                     <hi>You</hi> knew not <hi>Sempronius Denſus,</hi>
+                     <note place="margin">
+                        <hi>Plutarch.</hi>
+                     </note> whom (in a ge<g ref="char:EOLhyphen"/>neral defection from the <hi>Roman Emperor</hi>) nothing in Life could invite unto inconſtancy; and Death it ſelf (which moſt Men repute ſomething) could nothing ſcare from Loyalty.</p>
+                  <p>
+                     <hi>You</hi> knew not <hi>Ariſtides,</hi> ſtil'd <hi>the Just,</hi> whom the <hi>Athenians</hi> Love furniſh'd with that name; that name, the true begotten of his own <hi>diſpoſition,</hi> though alſo the begetter of their <hi>envy:</hi> his <hi>meekneſs</hi> was ſo ſig<g ref="char:EOLhyphen"/>nal, that his <hi>breath</hi> was noted to <hi>perfume</hi> the names of many, but to <hi>blast</hi> the eſtimation of none.</p>
+                  <p>
+                     <hi>You</hi> knew not <hi>Philopoemenes,</hi> whoſe <hi>Humility high Fortune</hi> found impregnable. He thought <hi>Content</hi> a
+<pb n="23" facs="tcp:44958:13"/>glorious Heaven; of which to take a proſpect, he ſup<g ref="char:EOLhyphen"/>preſs'd all his own luſtre; and in the bottom of <hi>Hu<g ref="char:EOLhyphen"/>mility</hi> (like Men in Pits) ſaw that Heaven to beſt advantage, permitting not his ſight to be divided with ſcatter'd beams of his own glory.</p>
+                  <p>Nor yet knew <hi>you Pelopidas;</hi> of whoſe friendſhip no weather ever vary'd the complexion. He ſtill per<g ref="char:EOLhyphen"/>ſiſting towards all (to whom he ere pretended Ami<g ref="char:EOLhyphen"/>ty) an unalter'd Friend, made all the world his own Friend.</p>
+                  <p>
+                     <hi>You</hi> knew not that <hi>Aratus,</hi> who then conceiv'd he ſtudy'd moſt Self-intereſt, when moſt he did expend his induſtry and thoughts to his Countries publick benefit; he liv'd the <hi>gain</hi> of all Men, and he died their <hi>loſs.</hi>
+                  </p>
+                  <p>Nor knew <hi>you Marcus Brutus,</hi> ſignally obſerved for kindneſs to his <hi>Wife</hi> and <hi>Family;</hi> whom ſcarce a <hi>Vir<g ref="char:EOLhyphen"/>tue</hi> left unfrequented, and ſcarce any Mans <hi>Love</hi> unat<g ref="char:EOLhyphen"/>tended.</p>
+                  <p>Now will you have the <hi>Sum of all?</hi> We read that <hi>theſe</hi> were <hi>brave</hi> — and that they <hi>dy'd;</hi> That they dy'd worthy of much longer living, had life been worthy to defer their dying.</p>
+                  <p>If ſtill you are deſirous to know more of them— be pleas'd to read it <hi>there,</hi> and then caſt up how much <hi>a precious Name</hi> enjoyes of <hi>fragrancy</hi> above all <hi>Oynt<g ref="char:EOLhyphen"/>ment.</hi> And whil'ſt your thoughts are <hi>there</hi> employ'd, you'll find (what all theſe wanted) true <hi>Religion</hi> too. <hi>What words of life made up his dying breath?</hi> How did he <hi>draw in common Air,</hi> to <hi>return</hi> it <hi>odours? His languiſhing</hi> being full of <hi>pious, fervent,</hi> and of <hi>fre<g ref="char:EOLhyphen"/>quent Prayers</hi> and <hi>Ejaculations;</hi> with which his choice
+<pb n="24" facs="tcp:44958:14"/>had furniſh'd well his memory out of our <hi>Liturgy;</hi> by his <hi>dying practice,</hi> approving his <hi>living judgment<gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> ex<g ref="char:EOLhyphen"/>piring (as much as Man can gueſs) in great <hi>ſubmiſſion</hi> to the <hi>Father, conſolation</hi> in the <hi>Spirit, Faith</hi> in the <hi>Son,</hi> and <hi>Duty</hi> to the <hi>Sons Spouſe,</hi> the <hi>Church.</hi> Now when theſe things have met your obſervation, you'll think he juſtifi'd the cloſe of the <hi>Text;</hi> and that his <hi>latest</hi> hour, did ſurmount his <hi>earliest.</hi>
+                  </p>
+                  <p>
+                     <hi>Living, we all</hi> enjoy'd him; <hi>now</hi> we ſee what <hi>a ſmall ſpot of ground he</hi> (being <hi>dead</hi>) <hi>poſſeſſes.</hi> But <hi>his Name</hi> lives, and fills up room enough; and I have room enough to live upon his Name, but that I've liv'd too long upon your <hi>patience.</hi> You <hi>knew him;</hi> I know, you <hi>knew him:</hi> You <hi>lov'd him;</hi> knowing him, you <hi>must love him:</hi> You <hi>remember him;</hi> you have <hi>rea<g ref="char:EOLhyphen"/>ſon</hi> to <hi>remember him:</hi> (O that we could all <hi>conſpire</hi> to <hi>imitate him!</hi>) confiding in your <hi>memory,</hi> my <hi>Diſ<g ref="char:EOLhyphen"/>courſe</hi> may now (as <hi>he did</hi>) bid you all <hi>Farewell.</hi> It has liv'd, <hi>like him,</hi> to more than an ordinary <hi>Age;</hi> though not, <hi>like him,</hi> in extraordinary <hi>value. Conve<g ref="char:EOLhyphen"/>nience</hi> now will <hi>prompt</hi> you to conceive the <hi>minute</hi> of the <hi>Sermons Death,</hi> to be better than thoſe of <hi>its Life;</hi> As the <hi>Converſation</hi> of the <hi>Sermons Subject</hi> has in<g ref="char:EOLhyphen"/>ſtructed us to conclude <hi>the Day of his Death, better than that of his Birth.</hi>
+                  </p>
+                  <closer>Now to that God, with whom he is; to whom the iſſues of Life and Death belong, Be all Honour and Glory, henceforth, and for evermore. AMEN.</closer>
+               </div>
+            </div>
+         </div>
+         <div type="sermon">
+            <pb n="25" facs="tcp:44958:14"/>
+            <head>ANOTHER Upon the Right Honourable THE Lady <hi>MARY</hi> his WIFE, Who was Buried in his GRAVE, <hi>September</hi> 25. 1669.</head>
+            <epigraph>
+               <q>
+                  <bibl>JOB XIV. Ver. 12.</bibl>
+                  <p>
+                     <hi>So man lieth down, and riſeth not, till the Heavens be no more, they ſhall not awake, nor be raiſed out of their ſleep.</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>He Fleſh,</hi> whoſe <hi>Livery</hi> theſe <hi>Walls</hi> are dreſs'd in, has <hi>ſlept</hi> almoſt a <hi>Year;</hi> and <hi>hither</hi> now retires <hi>the other part of that one Fleſh,</hi> to ſhare in <hi>his repoſe.</hi> Vexatious Life is oft compar'd, and well, to <hi>Thorns</hi> and <hi>Bry<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rs;</hi> and of ſome Bryars no end appears above ground: Now ſuch a Bryar was our laſt years Life, having <hi>both ends</hi> in the earth. When
+<pb n="26" facs="tcp:44958:15"/>
+               <hi>the first Corps</hi> of <hi>theſe</hi> lay down in peace, and <hi>theſe black Curtains</hi> firſt were drawn about <hi>his</hi> Bed of <hi>dust,</hi> that Text of <hi>Eccleſiastes</hi>
+               <note n="(a)" place="margin">Eccleſ. 7.1.</note>, <hi>A good Name is better than Oyntment,</hi> &amp;c. became <hi>the Subject of our Medita<g ref="char:EOLhyphen"/>tions.</hi> In the firſt words of that <hi>Verſe,</hi> the <hi>Wiſe man applauds</hi> (what indeed all Men <hi>wiſh</hi>) <hi>a good Name;</hi> and in the laſt he gives no ſmall <hi>Encomium</hi> to that which all Men <hi>fear, viz. Death. Death</hi> is ſaid to <hi>be wedded</hi> to our humane Natures: And though to ti<g ref="char:EOLhyphen"/>morous diſpoſitions (who view <hi>her</hi> at a diſtance) <hi>ſhe</hi> ſeem a <hi>Bride</hi> but of a <hi>ghaſtly</hi> hew; yet <hi>Solomon,</hi> who had more thoroughly perus'd her features, ſeems to dreſs her in the character he gave the <hi>ſpiritual Spouſe</hi> in the <hi>Canticles, Thou art black, but comely,</hi> &amp;c.</p>
+            <p>And ſince that Text applauded ſo her Counte<g ref="char:EOLhyphen"/>nance, what throngs has her diſtended Arms embra<g ref="char:EOLhyphen"/>ced? as if Mens deaths were the <hi>reſult</hi> of <hi>fondneſs,</hi> rather than <hi>force;</hi> and ſhe had vanquiſh'd them more by <hi>Attraction,</hi> than <hi>Conſtraint;</hi> and as if they had not expir'd ſo much her <hi>Captives,</hi> as her <hi>Lovers.</hi> Nor is their ſtay, unlike the ſtay of kindneſs; 'tis long, 'tis very long. Man fails from off the face of earth, as the
+<note n="(b)" place="margin">The Verſe preceding the Text.</note> 
+               <hi>Waters fail from the Sea, and as the Tydes in Rivers decay and are dry'd up.</hi> And as thoſe Waters do again return into the Sea, and Tydes into the Ri<g ref="char:EOLhyphen"/>vers; ſo ſhall Man find the effects of <hi>Renovation,</hi> but not, alas! with equal expedition, to what the Sea and Floods enjoy. The <hi>Heathen Poets</hi> much delight them<g ref="char:EOLhyphen"/>ſelves with <hi>Fables</hi> of their <hi>Jove,</hi> fancying (amongſt the reſt) that viſiting <hi>Al<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mena,</hi> he ſtretch'd out the <hi>night</hi> unto the length of <hi>three;</hi> but <hi>his three nights,</hi> to <hi>this</hi> of <hi>Death,</hi> were but a <hi>twinkling.</hi> Man being once laid down to ſleep in the <hi>Pavilion</hi> of <hi>Death, <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>til
+<pb n="27" facs="tcp:44958:15"/>the Heavens be no more, he ſhall not awake, nor be raiſed out of his ſleep.</hi>
+            </p>
+            <p>How obvious in the words are theſe Collections.</p>
+            <list>
+               <item>I. That <hi>Death's a ſleep.</hi>
+               </item>
+               <item>II. That 'tis <hi>a long ſleep; Till the Heavens be no more.</hi>
+               </item>
+               <item>III. That <hi>the Heavens</hi> ſhall, <hi>once, be no more;</hi> for <hi>Death</hi> is but <hi>a ſleep,</hi> and <hi>ſleep</hi> imports <hi>awa<g ref="char:EOLhyphen"/>king.</hi>
+               </item>
+               <item>IV. That <hi>when the time is come, wherein the Hea<g ref="char:EOLhyphen"/>vens ſhall be no more, then Man ſhall be again;</hi> he ſhall be <hi>raiſed</hi> out of his <hi>ſleep.</hi>
+               </item>
+            </list>
+            <div n="1" type="part">
+               <head>I. Then, <hi>Death is a ſleep.</hi>
+               </head>
+               <p>For <hi>Death, Job</hi> apprehends by <hi>lying down.</hi> But <hi>Death</hi> is <hi>fourfold.</hi>
+               </p>
+               <list>
+                  <item>1. There's a <hi>Death to Sin,</hi> and that's the <hi>Death of Grace. When Men being dead to Sin, live no lon<g ref="char:EOLhyphen"/>ger therein</hi>
+                     <note n="(c)" place="margin">Rom. 6.2.</note>. <hi>But mortifie the deeds of the fleſh</hi>
+                     <note n="(d)" place="margin">Rom. 8.13.</note>. Hence the <hi>Philoſopher</hi> tells us, it is one way of <hi>dying,</hi> by our <hi>contempt</hi> of <hi>pleaſure, reſtraint</hi> of <hi>paſſion</hi>
+                     <note n="(e)" place="margin">
+                        <hi>Morietiam dicitur, cum anima, adhuc in corpore conſtituta, cor<g ref="char:EOLhyphen"/>poreas illece<g ref="char:EOLhyphen"/>bras (Philoſo<g ref="char:EOLhyphen"/>phiâ docente) contemnit; &amp; cupiditatum dulces inſidi<g ref="char:EOLhyphen"/>as, reliquaſque omnes exuit paſſiones.</hi> Ma<g ref="char:EOLhyphen"/>crob. lib. 1. in Somn. Scip. cap. 13.</note>.</item>
+                  <item>2. There's a <hi>Death to Grace;</hi> and that's the <hi>death of ſin,</hi> or rather <hi>in ſin.</hi> Hence ſome are ſaid <hi>to be dead in treſpaſſes and ſins;</hi> ſome <hi>to have a name that they live, and yet they are dead; for to be carnally minded, is Death</hi>
+                     <note n="(f)" place="margin">Rom. 8.6.</note>.</item>
+                  <pb n="28" facs="tcp:44958:16"/>
+                  <item> 3. There's <hi>a Death to the Actions of the Body.</hi> 'Tis the <hi>diſſolution</hi> of the <hi>Compoſitum,</hi> and that's the <hi>Death</hi> of <hi>Nature.</hi> So firſt, <hi>God ſaid to</hi> Adam, <hi>In the day thou eatest thereof, thou ſhalt ſurely dye</hi>
+                     <note n="(g)" place="margin">Gen 2.17.</note>, (i.e.) <hi>be liable to Death.</hi> And ſecondly, becauſe he eat himſelf into Mortality, 'tis ſaid of all his Succeſſors,
+<note n="(h)" place="margin">Pſal. 89.48.</note> 
+                     <hi>What Man is he that liveth, and ſhall not ſee Death?</hi> The ſecond ſort of <hi>Death,</hi> and <hi>this,</hi> are join'd together, <hi>Mat.</hi> 8.22. <hi>Let the dead bury their dead; i. e.</hi> ſayes <hi>St Auſtin
+<note n="(i)" place="margin">
+                           <hi>De Civit. Dei.</hi> lib. 10. cap. 6.</note>, Let the dead in ſin, bury the dead in nature.</hi>
+                  </item>
+                  <item>4. There's <hi>a Death to <g ref="char:V">Ʋ</g>nhappineſs,</hi> and that's the <hi>Death in Hell, a Death of Soul and Body,</hi> being their <hi>ſeparation</hi> from <hi>felicity;</hi> and <hi>this</hi> is call'd <hi>the ſecond Death,</hi> Rev. 20.14.</item>
+               </list>
+               <p>
+                  <hi>The first Death, is the ſeparation of the Soul from ſin:</hi> But this is far from <hi>ſleep,</hi> 'tis a continual <hi>watch<g ref="char:EOLhyphen"/>ing.</hi>
+               </p>
+               <p>
+                  <hi>The ſecond, is the ſeparation of the Soul from Grace.</hi> This is <hi>a ſleep</hi> we muſt avoid; from this we muſt not only <hi>wake,</hi> before the Heavens <hi>ceaſe</hi> to be the Heavens that they are; but alſo, before we <hi>return</hi> to the earth that we were, or elſe we muſt be <hi>dead</hi> in this ſin for ever; for the <hi>Damn'd</hi> protract their <hi>ſinning,</hi> with their <hi>ſuffering.</hi>
+               </p>
+               <p>
+                  <hi>The fourth, is the ſeparation of both Soul and Body from glory, rest, and hope;</hi> ſo far is this from being <hi>rest</hi> or <hi>ſleep:</hi> therefore</p>
+               <pb n="29" facs="tcp:44958:16"/>
+               <p> 
+                  <hi>The third, the Death of Nature, or rather Death ac<g ref="char:EOLhyphen"/>cording to Nature, viz.</hi> the <hi>ſeparation</hi> of the Body and Soul, muſt be this <hi>ſleep.</hi> But yet, becauſe the <hi>Body</hi> (not the <hi>Soul</hi>) in that disjunction, <hi>deſiſts</hi> to live and act; the <hi>ſleep</hi> we ſpeak of, appertains to that: nor (in propriety of ſpeech) can that, or <hi>lying down,</hi> be attributed to any other thing.</p>
+               <p>This is <hi>that</hi> ſleep, which he <hi>must</hi> be aſleep, who does not frequently perceive expreſs'd in <hi>Sacred Writ:</hi>
+                  <q>
+                     <l>She is not dead, but ſleepeth
+<note n="(k)" place="margin">Matth. 9.24.</note>.</l>
+                  </q>
+                  <q>
+                     <l>We ſhall not prevent them which are aſleep
+<note n="(l)" place="margin">1 Theſ. 4.15.</note>.</l>
+                  </q>
+                  <q>
+                     <l>Many of them that ſleep in the dust of the earth, ſhall awake, ſome to everlaſting life
+<note n="(m)" place="margin">Dan. 12.2.</note>, &amp;c.</l>
+                  </q>
+                  <q>
+                     <l>Our friend <hi>Lazarus</hi> ſleepeth
+<note n="(n)" place="margin">Joh. 11.11.</note>.</l>
+                  </q>
+                  <q>
+                     <l>When <hi>Stephen</hi> had ſaid this, he fell aſleep
+<note n="(o)" place="margin">Acts 7.6.</note>.</l>
+                  </q>
+               </p>
+               <p>Thus generally <hi>departed Kings</hi> (in Scripture) are ſaid <hi>to have ſlept with their fathers.</hi>
+               </p>
+               <p>And thus the <hi>Poet, Sleeps are the little Myſteries of Death</hi>
+                  <note n="(p)" place="margin">
+                     <hi>(p)</hi> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> Menand.</note>.</p>
+               <p>Now it <hi>reſembles,</hi> or rather is <hi>a ſleep;</hi> in that it <hi>cor<g ref="char:EOLhyphen"/>reſponds</hi> with the <hi>definition</hi> and <hi>properties</hi> of ſleep.</p>
+               <p n="1">1. <hi>Sleep binds the Senſes up</hi>
+                  <note n="(q)" place="margin">
+                     <hi>Ariſt.</hi> de Vigil. &amp; Som.</note>; ſo the <hi>Philoſo<g ref="char:EOLhyphen"/>pher, It is the Ligament of Senſe,</hi> and ſuch is <hi>Death.</hi> Where's then the eye which dotes on <hi>ſpecious objects,</hi> and is it ſelf eſteem'd one; which never is well ſatiſ<g ref="char:EOLhyphen"/>fi'd with <hi>ſeeing,</hi> nor ever ſatisfies with being <hi>ſeen?</hi> Up<g ref="char:EOLhyphen"/>on the <hi>ſleeping</hi> and the <hi>dead,</hi> the <hi>Sun</hi> (or whatſoever
+<pb n="30" facs="tcp:44958:17"/>
+                  <hi>glories</hi> of the Skies) layes out <hi>his light</hi> in vain; <hi>Midnight</hi> and <hi>Noon</hi> are equal <hi>ſhades</hi> to them. Where's then the <hi>Ear,</hi> through which <hi>Trumpets</hi> convey life to the <hi>hands,</hi> and <hi>Tabrets</hi> to the <hi>feet;</hi> whil'ſt holy <hi>David</hi> at the <hi>ſound</hi> of the one <hi>fights</hi> for the <hi>Ark,</hi> and at the <hi>noiſe</hi> of the other <hi>dances</hi> before it? To <hi>Sleep</hi> and <hi>Death,</hi> theſe are no more than <hi>Silence. Midnight</hi> and the <hi>Grave</hi> are two <hi>Exceptions</hi> againſt <hi>Noiſe. Awake</hi> you may ye <hi>Lute</hi> and <hi>Harp;</hi> but to what purpoſe, when 'tis not, <hi>I my ſelf awake right early?</hi> Where's then the <hi>Scent?</hi> And where's the difference betwixt the <hi>Dormant,</hi> and the <hi>Dead?</hi> The <hi>one</hi> perceives no ſweet<g ref="char:EOLhyphen"/>neſs in a <hi>Bed</hi> of <hi>Roſes,</hi> nor yet the <hi>other</hi> in his Apart<g ref="char:EOLhyphen"/>ment ſtrow'd with <hi>Flowers. Corruption</hi> ſhall make this <hi>last</hi> (as the <hi>Siſter</hi> concluded of <hi>Lazarus</hi>) yield an <hi>ill ſavour;</hi> but neither <hi>last,</hi> nor <hi>firſt,</hi> diſcern a <hi>good</hi> one, nor yet diſdain a <hi>bad</hi> one. Where's then the ſenſe of <hi>Taſting?</hi> Then <hi>ſweet</hi> and <hi>ſowr</hi> fall into <hi>indi<g ref="char:EOLhyphen"/>ſtinction:</hi> Then nought is <hi>palatable</hi> nor <hi>diſguſtful:</hi> No <hi>rarity</hi> contended for in meats, nor <hi>property</hi> in ſaw<g ref="char:EOLhyphen"/>ces; no <hi>reliſh</hi> vaunted of in fruits, nor <hi>guſto</hi> in the wines: No, no, there is no other <hi>Epicure</hi> in ſleep, than <hi>Fleas;</hi> nor in the Grave, than <hi>Worms.</hi> Where's then the ſenſe of <hi>Feeling?</hi> To thoſe that ſoundly <hi>ſleep,</hi> and to the <hi>dead, Good Engliſh Broad-cloth may contend with Sattin:</hi> And (were not Men alive as <hi>reaſonleſs,</hi> as Men aſleep and dead are <hi>ſenſleſs</hi>) an Act for <hi>Fune<g ref="char:EOLhyphen"/>rals</hi> in <hi>home-made Woollen,</hi> might be embrac'd with <hi>leſs</hi> reluctancy. What feels the <hi>living</hi> ſleeper? what the <hi>dead?</hi> The <hi>one</hi> perceiving not the <hi>Thief</hi> which robs his <hi>Purſe,</hi> nor the <hi>other</hi> the <hi>Sexton</hi> which ſtrips his <hi>Carkaſs.</hi>
+               </p>
+               <pb n="31" facs="tcp:44958:17"/>
+               <p> Then what is <hi>Sleep,</hi> but Death
+<note n="(r)" place="margin">
+                     <hi>Quid eſt ſom<gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>m, gelidae n<gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s;i mortis imago?</hi>
+                  </note> 
+                  <hi>abbreviated?</hi> Or <hi>Death,</hi> but Sleep <hi>protracted?</hi>
+               </p>
+               <p n="2">2. <hi>As to Anxiety and Care, their Natures much accord.</hi> In Sleep they <hi>dye,</hi> in Death they <hi>fall aſleep.</hi> Farewell, in both, to <hi>doubts</hi> and <hi>jealouſies,</hi> to <hi>fear</hi> and <hi>grief.</hi> When weary'd with <hi>diſtraction,</hi> how welcome does Man entertain <hi>repoſe,</hi> in <hi>Bed</hi> or in the <hi>Grave? Man goeth forth unto his labour until the Evening,</hi> and then, the ſleep of a <hi>labouring Man</hi> is ſweet
+<note n="(s)" place="margin">
+                     <hi>(s)</hi> Eccleſ. 5.12.</note>; ſo much for <hi>Sleep. In the world ye ſhall have tribulation</hi>
+                  <note n="(t)" place="margin">John 16.33.</note>, yet proceed <hi>to work out your ſalvation</hi>
+                  <note n="(u)" place="margin">Phil. 2.12.</note>: That when the <hi>night</hi> of Death approaches, and <hi>none can work,</hi> you may <hi>be happy</hi> with thoſe <hi>that dye in the Lord, for they reſt from their labours</hi>
+                  <note n="(w)" place="margin">Rev. 14.13.</note>. So much for <hi>Death;</hi> in both conditions, <hi>Trouble</hi> finds a <hi>Grave.</hi>
+               </p>
+               <p>What though the world <hi>be loſt</hi> in horrid fears, like to <hi>benighted</hi> Men? And in that <hi>night,</hi> what although <hi>Groans</hi> (like <hi>Screams</hi> of <hi>Owls</hi>) grow <hi>loud;</hi> and <hi>Joyes</hi> (like <hi>dying Swans</hi>) have ſung <hi>their laſt?</hi> Yet what's all <hi>this,</hi> to thoſe that are at <hi>reſt?</hi> 'Tis to the <hi>waking,</hi> to the <hi>living</hi> 'tis, that the Winds <hi>roar,</hi> and that the Billows <hi>foam;</hi> that the Maſts <hi>crack,</hi> and that the Cordage <hi>burſts;</hi> that Clouds <hi>hide</hi> Heaven, and the Waves the Clouds: But it diſturbs not <hi>Jonas,</hi> for <hi>he ſleeps:</hi> Nor yet <hi>his Anceſtors,</hi> for <hi>they are dead.</hi> This is that <hi>water of Lethe,</hi> which the <hi>Heathens</hi> conceiv'd powerful to convey <hi>oblivion</hi> to the memory. <hi>Thou Vanquiſher of Ills; Thou Calmneſs to the Mind!</hi> &amp;c. ſayes <hi>Seneca</hi> to <hi>Sleep
+<note n="(x)" place="margin">
+                        <hi>Tuque O Domitor ſomne malorum, re<g ref="char:EOLhyphen"/>quies animi, &amp;c.</hi> Sen. Her<gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. Fur.</note>. And ſuch a Sleep is Death.</hi> For, <hi>O Death! acceptable is thy ſentence to the Needy; to him whoſe ſtrength faileth, and is vex'd with all things;
+<pb n="32" facs="tcp:44958:18"/>to him that deſpaireth, and hath lost his patience,</hi> ſayes the ſon of <hi>Syrach,</hi> Chap. 41. ver. 2.</p>
+               <p n="3">3. <hi>As to the deſiſting of motion and action, how well may they be Twins?</hi> In each of them there's a defect of theſe. The Body being ty'd in bonds of ſleep, it lies as buried; in the interim, the Soul (whoſe power is independant on the Body) perpetuates her action: ſo when the term of <hi>mortal life</hi> is come, down lies the Body all <hi>torpid</hi> and <hi>unactive;</hi> but the Soul, the <hi>inviſi<g ref="char:EOLhyphen"/>ble</hi> part, does ſtill retain <hi>poſſeſſion</hi> of life in the behalf of the whole Man. And in both caſes too, the Body ſhall again <hi>aſſume</hi> its former vigor, to ſhew it was not <hi>lost,</hi> but <hi>intermitted;</hi> but of that more, in a more pro<g ref="char:EOLhyphen"/>per place.</p>
+               <p n="4">4. <hi>Sleeping and dying are of one neceſſity, and equal<g ref="char:EOLhyphen"/>ly to nature indiſpenſable.</hi> Many men wake with cove<g ref="char:EOLhyphen"/>ting to ſleep; and their too eager hopes of ſome re<g ref="char:EOLhyphen"/>poſe, keeps them in long fruſtration. Juſt ſo, ſome live, ſpite of themſelves, ſubſiſting in oppoſition to their ſierce deſires of <hi>Expiration;</hi> ſuch was perplex'd <hi>Job, Jeremy,</hi> and <hi>Elias.</hi> And others <hi>ſleep,</hi> whil'ſt they con<g ref="char:EOLhyphen"/>tend to <hi>wake,</hi> ſuch were the <hi>Apoſtles</hi>
+                  <note n="(y)" place="margin">Mark 14.37.</note>: Juſt ſo, ſome Men <hi>embrace</hi> their Deaths, whil'ſt they conceive they <hi>oppoſe</hi> it; and <hi>meet</hi> it, where they think they <hi>travel</hi> from it. <hi>Yet all</hi> (ſome time or other) muſt <hi>partake</hi> of either; unleſs <hi>Death</hi> prevent ſleep at the firſt, and <hi>Doomſday</hi> prevent Death at the laſt. In vain's the ſtudy to <hi>evade</hi> them; 'tis of a nature like the in<g ref="char:EOLhyphen"/>duſtry expended to procure the <hi>Philoſophers ſtone;</hi> they labour to convert what'ere they have into <hi>Gold,</hi>
+                  <pb n="33" facs="tcp:44958:18"/>and convert that little Gold they have into <hi>Nothing.</hi> So we, ſollicitous to improve that <hi>little health</hi> we have into a treaſure of inexhauſtible life, reduce that <hi>little life</hi> we have into death. Like him, who ſhould <hi>con<g ref="char:EOLhyphen"/>trive</hi> to watch long, and <hi>drops aſleep</hi> with the contri<g ref="char:EOLhyphen"/>vance. Not that I would men ſhould <hi>neglect</hi> their lives, or be <hi>indifferent</hi> in their conſervation; but that they ſhould be <hi>careful</hi> of them, with an aſſurance <hi>once</hi> to forego them, and ſtill be ready with <hi>alacrity</hi> to reſign them: For <hi>who is he that lives, and ſhall not ſee death?</hi>
+               </p>
+               <p n="5">5. <hi>Sleep equals all men, of what age ſoever, what ſtrength, or what degree; and ſo does Death.</hi> None in their <hi>dark Dominions,</hi> can diſcern a <hi>Throne</hi> from a <hi>Pedeſtall.</hi> The Corps of ſleeping <hi>Bartimaeus,</hi> has equal bliſs with ſleeping <hi>Herod;</hi> and much more than <hi>Herod,</hi> when awake: So is dead <hi>Diogenes,</hi> as happy as dead <hi>Alexander;</hi> and much more than <hi>Alexander,</hi> when <hi>alive.</hi> Various wayes, and different poſtures there may be of both in <hi>lying down;</hi> but being <hi>laid,</hi> their <hi>State</hi> is undiſtinguiſh'd
+<note n="(z)" place="margin">
+                     <hi>Miſta Senum ac Ju<g ref="char:EOLhyphen"/>venum deflen<g ref="char:EOLhyphen"/>tur Corpora.</hi> Horat. <hi>Nulla diſtinctio inter Cadavera mortuorum, niſi for<gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>è graviùs ſaetent Divitum Corpora, luxuriâ diſtenta.</hi> Amb. Hexamer.</note>, and promiſ<g ref="char:EOLhyphen"/>cuous.</p>
+               <p>Some die <hi>diſtracted,</hi> haraſs'd with wandring and benighted thoughts; and theſe ſleep like <hi>Ezekiel</hi>'s <hi>Jews,</hi> in the <hi>Woods</hi>
+                  <note n="(a)" place="margin">Ezek. 34.25.</note>.</p>
+               <p>Some men expire in the purſuit of <hi>Fame,</hi> oppreſs'd with <hi>Titles,</hi> and <hi>voluminous Inſcriptions;</hi> and theſe ſleep like <hi>Iſaiah</hi>'s <hi>Idolaters,</hi> in <hi>Monuments</hi>
+                  <note n="(b)" place="margin">Iſa 65.4.</note>.</p>
+               <pb n="34" facs="tcp:44958:19"/>
+               <p> Some have <hi>ſhort winter-lives;</hi> a little <hi>day-light</hi> in them, but much <hi>tempest;</hi> theſe men expiring in the midſt of <hi>cares,</hi> ſeem to have troubled themſelves to death; and theſe, like <hi>Jonah, ſleep in a ſtorm</hi>
+                  <note n="(c)" place="margin">Jon. 1.5.</note>.</p>
+               <p>Some are <hi>preſcrib'd</hi> to death, purſuing the directi<g ref="char:EOLhyphen"/>ons of <hi>Phyſicians,</hi> (Deaths great Acquaintances) and ty'd to their <hi>Receipts;</hi> theſe ſleep, like S<hi rend="sup">t</hi> 
+                  <hi>Peter,</hi> among <hi>Soldiers,</hi> and in <hi>Chains</hi>
+                  <note n="(d)" place="margin">Acts 12.6.</note>.</p>
+               <p>Some are miſguided by a <hi>flying fire</hi> (by <hi>ſeeming</hi> honour) into the Graves great precipice, and dye of a diſeaſe call'd <hi>Valor;</hi> theſe ſleep, like <hi>Sampſon,</hi> in <hi>Ga<g ref="char:EOLhyphen"/>za</hi>
+                  <note n="(e)" place="margin">Judg. 16.3.</note>, which (being interpreted) is <hi>ſtrength.</hi>
+               </p>
+               <p>
+                  <hi>Fulneſs of bread</hi> ſometimes may ſend another to the <hi>Grave;</hi> and he ſleeps, like <hi>Boaz, at a heap of Corn</hi>
+                  <note n="(f)" place="margin">Ruth 3 7.</note>. Whil'ſt <hi>Indigence</hi> perhaps deſtroys his Neighbours; and they, like <hi>Ruth, ſleep at his feet</hi>
+                  <note n="(g)" place="margin">Ver. 14.</note>.</p>
+               <p>Others dye of <hi>Promotion,</hi> and (like <hi>ſmoke</hi>) are taught to <hi>vaniſh</hi> by their <hi>exaltation;</hi> and theſe ſleep, like <hi>Saul, on the top of the Houſe</hi>
+                  <note n="(h)" place="margin">1 Sam. 9.26.</note>.</p>
+               <p>Others dye weary'd out with <hi>Expectation;</hi> and they ſleep, like <hi>
+                     <g ref="char:V">Ʋ</g>riah, at the Gate of the Kings houſe</hi>
+                  <note n="(i)" place="margin">2 Sam. 1.9.</note>.</p>
+               <p>Now, though the method of <hi>Expiring</hi> varies, the ſtate of the <hi>Expir'd</hi> is all equality. The low and weak can be but empty then: And even the <hi>Proud, when they have ſlept their ſleep, and thoſe (whoſe hands were mighty) have found nothing.</hi>
+               </p>
+               <p>Now therefore, ſince that which we in rigorous Expreſſion term <hi>Death,</hi> in mild conſtruction is but <hi>Sleep;</hi>
+               </p>
+               <p n="1">(1.) Thrice <hi>happy</hi> they, whom it defers not <hi>long! Quick ſleeps</hi> diſcover <hi>regular Conſtitutions.</hi> 'Tis much
+<pb n="35" facs="tcp:44958:19"/>advantage to be early happy; and to prevent the reſt<g ref="char:EOLhyphen"/>leſsneſs and tumbli<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gs of weary Age, with undelay'd repoſe; <hi>For thus God giveth his beloved ſleep,</hi> ſayes the <hi>Prophet</hi>
+                  <note n="(k)" place="margin">Pſal. 127.2.</note>. And <hi>thoſe, whom the Gods affect, dye young,</hi> ſayes the <hi>Poet</hi>
+                  <note n="(l)" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. Menand</note>.</p>
+               <p n="2">(2.) That really in <hi>Death</hi> we may have <hi>rest,</hi> as in <hi>ſound ſleep;</hi> we muſt contend, whil'ſt yet we are <hi>awake,</hi> to perfect all our task in <hi>God</hi> our Maſters moſt important ſervice, and work out our ſalvation whil'ſt we may. Sleep, we know, <hi>ſeals up at once</hi> our induſtry and eyes, no <hi>working</hi> then; we in the <hi>morning</hi> there<g ref="char:EOLhyphen"/>fore ſhould contrive to make <hi>night</hi> no ſurprize: That when it once grows heavy on our <hi>eye-lids,</hi> we may not leave our <hi>duties</hi> unattempted, or our <hi>attempts</hi> un<g ref="char:EOLhyphen"/>accompliſhed: like interrupted and abortive <hi>ſtruc<g ref="char:EOLhyphen"/>tures,</hi> which ſhew what <hi>Architects</hi> preſum'd, not what they did.</p>
+               <p>And ſo much more ſhould we be <hi>ſedulous</hi> to have our task determin'd, ere we <hi>ſleep,</hi> by how much leſs we ſhall be capable to fill up its perfection, when we <hi>wake.</hi> For here indeed <hi>Death</hi> varies from the method of ordinary ſleep; in that, what ere to day (<hi>i. e.</hi> in our lives) lies uneffected, muſt be perpetuated ſo. <hi>As the Tree falls, ſo it must lie
+<note n="(m)" place="margin">Eccleſ. 11.3.</note>. There is no borrow<g ref="char:EOLhyphen"/>ing of to morrows Sun, to pay the arrears of this. No, no,</hi> we ſhall not open <hi>once</hi> our eyes to wake, till the Heavens <hi>cloſe</hi> all their eyes, and fall aſleep; nor ſhall our morning ere begin <hi>to be,</hi> till the place, where morning dwells, ſhall <hi>be no more.</hi> When once our <hi>drowſie temples,</hi> are bound up with Deaths <hi>ſwarthy Night-cloaths, Farewell to Spring,</hi> which is our growth in grace; <hi>Farewell to Summer,</hi> and <hi>fruits meet for re<g ref="char:EOLhyphen"/>pentance;
+<pb n="36" facs="tcp:44958:20"/>Farewell to Sunſhine,</hi> being <hi>the light of grace;</hi> And <hi>Farewell ſhowres, the droppings of the Sanctuary: For man lieth down, and riſeth not, till the Heavens be no more,</hi> &amp;c.</p>
+            </div>
+            <div n="2" type="part">
+               <head>II. 'Tis then <hi>a long Sleep.</hi>
+               </head>
+               <p>
+                  <hi>Till the Heavens be no more.</hi> A time of tedious diſtance for ought we know. But yet, how near ſo<g ref="char:EOLhyphen"/>ever (if we reflect on thoſe who went before us) how much ſoever Death reſembled Sleep in <hi>quality,</hi> 'tis much beyond it in the <hi>quantity.</hi>
+               </p>
+               <p>The <hi>grand diſtinction</hi> of theſe ſleeps, conſiſts in their <hi>duration.</hi> A <hi>Sand</hi> participates the eſſential proper<g ref="char:EOLhyphen"/>ties of <hi>Earth.</hi> But ah! when their <hi>dimenſions</hi> come in <hi>competition,</hi> that <hi>nature</hi> of the <hi>Earth,</hi> which the <hi>Sand</hi> poſſeſſes, is but enough to <hi>priviledge</hi> it from <hi>be<g ref="char:EOLhyphen"/>ing nothing:</hi> So <hi>Sleep,</hi> though <hi>conſtituted</hi> of the <hi>calm</hi> and <hi>gentle</hi> qualities of <hi>Death,</hi> when we peruſe them in their <hi>just extent,</hi> appears (in the compariſon) to have but ſo much eaſe, as does but juſt <hi>exempt</hi> it from be<g ref="char:EOLhyphen"/>ing <hi>labour.</hi> Here we ſoon <hi>ſleep,</hi> and ſtrait as quick<g ref="char:EOLhyphen"/>ly <hi>wake.</hi> Our lives are but <hi>ſucceſſive,</hi> and ſhort fits of <hi>darkneſs</hi> and of <hi>light.</hi> And if the <hi>night</hi> protract itſelf beyond our <hi>ſlumbers,</hi> how <hi>reſtleſs</hi> grow we, <hi>tor<g ref="char:EOLhyphen"/>tur'd</hi> with <hi>repoſe,</hi> and making our <hi>eaſe</hi> our <hi>anguiſh?</hi> But Bodies, <hi>once aſleep</hi> beneath the <hi>Coverlets</hi> of <hi>Turfs,</hi> find not themſelves ſo <hi>haſty</hi> to be ſtirring.</p>
+               <p>We ſhall remove no <hi>Curtains</hi> with our <hi>hands;</hi> nor, with our <hi>eyes,</hi> ſeek <hi>day-light</hi> in a <hi>Window;</hi> nor, with our <hi>vain enquiries,</hi> look for <hi>glimmerings</hi> in the <hi>East. No, no,</hi> we ſhall not <hi>hunt</hi> for day, till we ſhall miſs
+<pb n="37" facs="tcp:44958:20"/>the <hi>Heavens,</hi> from which it us'd to <hi>ſtart.</hi> We now lay not our ſelves to ſleep, until our ſelves (or ſervants, thoſe <hi>Deputy ſelves</hi>) have <hi>put out the Candle;</hi> but being laid down in <hi>Death,</hi> we ſhall not <hi>wake,</hi> till <hi>he that never ſleeps,</hi> puts out the Sun: <hi>For the Sun ſhall be turn'd into darkneſs
+<note n="(n)" place="margin">Joel 2.31.</note>, and be no more our light</hi>
+                  <note n="(o)" place="margin">Iſa. 60.19.</note>. The <hi>Sun</hi> and <hi>Darkneſs</hi> ſhall at <hi>once</hi> for<g ref="char:EOLhyphen"/>ſake us; nor ſhall <hi>the one</hi> (I mean <hi>Death</hi>) withdraw its <hi>drowſie ſhades,</hi> till <hi>the other</hi> wraps his <hi>Sun-beams</hi> up in <hi>Sables;</hi> and (inſtead of bidding <hi>Good-Morrow,</hi> like a <hi>Bridegroom</hi>
+                  <note n="*" place="margin">Pſal. 19.5.</note>) ſhall bid <hi>Good-Night</hi> like a <hi>Mourner.</hi>
+               </p>
+               <p>But, as <hi>ſoundly</hi> as we ſhall ſleep in <hi>Body,</hi> ſo ſurely was <hi>Lactantius</hi> in a <hi>Dream,</hi> who (with the other <hi>Chiliaſts</hi>) would <hi>humble</hi> Chriſts celeſtial <hi>Sovereignty,</hi> into an earthly <hi>Throne,</hi> to be erected at <hi>Jeruſalem,</hi> and be eſtabliſh'd for 1000 years; for which ſpace alſo he preſum'd, the <hi>Martyrs</hi> ſhould be empowred with <hi>ſub<g ref="char:EOLhyphen"/>lunary dominion,</hi> and enjoy <hi>pleaſures,</hi> equally terreſtri<g ref="char:EOLhyphen"/>al with their <hi>juriſdiction.</hi> Now the foundation of this <hi>phantaſtick building,</hi> they lay upon a ground, which will not bear it; they inſtance in <hi>Rev.</hi> 20. and from theſe expreſſions (<hi>The Devil is bound for a thou<g ref="char:EOLhyphen"/>ſand years,</hi> ver. 2. <hi>And the Souls of the Witneſſes (or Martyrs) liv'd and reign'd with Christ for a thouſand years,</hi> ver. 4.) They conclude, That <hi>Satan</hi> ſhall <hi>lite<g ref="char:EOLhyphen"/>rally</hi> and <hi>temporally</hi> be bound, and the <hi>Martyrs tem<g ref="char:EOLhyphen"/>porally</hi> rule.</p>
+               <p>And leſt we ſhould conceive, they underſtood this their <hi>Supremacy</hi> to be <hi>only</hi> in Spirit, they not on<g ref="char:EOLhyphen"/>ly inſiſt upon <hi>ver.</hi> 4. where 'tis ſaid, <hi>The Souls of the Witneſſes liv'd and reign'd:</hi> But introduce the <hi>fifth
+<pb n="38" facs="tcp:44958:21"/>verſe,</hi> where 'tis ſaid, <hi>The rest of the dead lived not again, till the thouſand years were finiſh'd</hi>
+                  <note n="†" place="margin">i. e. <hi>Thoſe that are dead in Body and in Gra<gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e ſhall have no Reſur<g ref="char:EOLhyphen"/>rection at all, till all things are accompliſhed, and then they ſhall ariſe to a ſecond Death; But theſe that had part in the firſt Reſurrection,</hi> (i. e.) <hi>from Sin, the ſecond Death (which is of Soul and Body) ſhall have n<gap reason="illegible: missing" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> power <gap reason="illegible: missing" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>n.</hi>
+                  </note>: From hence concluding, That the <hi>Martyrs</hi> Souls ſhould all this while be <hi>reunited</hi> to their Bodies, which only can be ſuppos'd to <hi>live again</hi>
+                  <note n="*" place="margin">
+                     <hi>For the Soul lives not again, but continues to live.</hi>
+                  </note>.</p>
+               <p>And leſt <hi>Error</hi> ſhould be too narrow to <hi>expatiate in,</hi> their <hi>Fancies</hi> rove yet further, and recur to 2 <hi>Pet.</hi> 3.8. where <hi>one day,</hi> is ſaid, <hi>to be with God as a thou<g ref="char:EOLhyphen"/>ſand years, and a thouſand years as one day.</hi> Inferring hence, That the <hi>Worlds Glaſs</hi> ſhall be 7000 years in running out, in proportion to the ſeven dayes which make up every Week; and ſince the <hi>ſeventh</hi> day had a Preſcription of <hi>Repoſe</hi> and <hi>Piety,</hi> the ſix preceding being lights to guide men into <hi>toyle</hi> and <hi>ſweat;</hi> they fancy the laſt thouſand years muſt ſupply the room of a <hi>continued Sabbath</hi> to the Saints, after the firſt 6000 years being ſpent in induſtry and expectation. But this opinion does directly thwart that Text
+<note n="(p)" place="margin">Matth. 24.36.</note>, <hi>But of that day and hour knoweth no man, no not the An<g ref="char:EOLhyphen"/>gels,</hi> &amp;c. And the other opinion contradicts that other Text
+<note n="(q)" place="margin">John 18.36.</note>, <hi>My Kingdom is not of this world.</hi> But both oppoſe our preſent Text, which ſayes, <hi>Man</hi> (<hi>i. e.</hi> all Mankind, except thoſe which roſe with <hi>Christ to attend him their firſt-fruits,</hi> and to whom they limit not their <hi>fancy'd Empire</hi>) <hi>awakes not till the Heavens be no more.</hi>
+               </p>
+               <p>Yet even S<hi rend="sup">t</hi> 
+                  <hi>Auſtin</hi>
+                  <note n="(r)" place="margin">
+                     <hi>Nam eti<g ref="char:EOLhyphen"/>am nos haec epinati fuimus aliquando. Aug.</hi> de Civ. Dei. lib. 20. ch. 7.</note> once indulg'd this <hi>miſcon<g ref="char:EOLhyphen"/>ception,</hi> although with an opinion more refin'd, and
+<pb n="39" facs="tcp:44958:21"/>which alotted not ſuch carnal pleaſures to this <hi>domi<g ref="char:EOLhyphen"/>nion</hi> of the <hi>Saints,</hi> as other <hi>Patrons</hi> of this Error did. But on <hi>review,</hi> and <hi>better thoughts,</hi> he tells us, <hi>That by a thouſand years</hi> (being a perfect number) <hi>is meant the latter Age, begun by the</hi> Meſſias <hi>in the fulneſs of time;</hi> in which the <hi>Devil</hi> is bound, <hi>i. e.</hi> he does not, with his old more boundleſs power, <hi>detain</hi> the world in Er<g ref="char:EOLhyphen"/>ror, and <hi>enjoy</hi> his former uſurpation of Souls
+<note n="(s)" place="margin">
+                     <hi>Aut cer<g ref="char:EOLhyphen"/>te mille annos pro omnibus an<gap reason="illegible: faint" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>s hujus ſe<g ref="char:EOLhyphen"/>culi poſuit, ut perf<gap reason="illegible: missing" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>cto nu<g ref="char:EOLhyphen"/>mero notare<g ref="char:EOLhyphen"/>tur ipſa temporis plenitudo.</hi> Aug. ibid.</note>. But for the Saints, <hi>although their Bodies ſhould remain the ſlaves of Sepulchres,</hi> (thoſe only excepted which aroſe with Chriſt) <hi>yet ſhould their ſpirits reign with Christ in Heaven</hi>
+                  <note n="*" place="margin">
+                     <hi>Quamvis ergo cum ſu<gap reason="illegible: faint" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> dum, jam tamen corum animae regnant cum illo.</hi> Idem ibidem.</note>.</p>
+               <p>And this exactly ſquares with that, <hi>My Kingdom is not of this world;</hi> not but that <hi>Bodies</hi> too ſhall par<g ref="char:EOLhyphen"/>take his triumphs, but that will be, <hi>not till the Hea<g ref="char:EOLhyphen"/>vens be no more.</hi>
+               </p>
+            </div>
+            <div n="3" type="part">
+               <head>III. Why then, <hi>the Heavens ſhall be no more.</hi>
+               </head>
+               <p>For ſhould they ſtill continue as they are, and ſhould man ne're revive, whil'ſt they continue ſo; how could his <hi>Death</hi> be term'd a <hi>Sleep,</hi> to which no <hi>waking</hi> ever ſhould ſucceed?</p>
+               <p>The <hi>Heavens</hi> now are like <hi>an open Book,</hi> full of <hi>ſtrange Characters,</hi> which men conſult (how wiſely, let their <hi>effects</hi> determine) to be inform'd, when great mens <hi>Lives</hi> ſhall be no more; when <hi>Kingdoms,</hi> and when <hi>States</hi> ſhall be no more; when <hi>publick Bleſſings,</hi> and when <hi>publick Curſes</hi> ſhall be no more. But there will be a <hi>ſeaſon</hi> (and e're long 'twill be) when they
+<pb n="40" facs="tcp:44958:22"/>themſelves <hi>ſhall be no more; They ſhall periſh,</hi> fayes the <hi>Pſalmist:</hi> But of the <hi>critical moment,</hi> not a word in all the Book of <hi>Spheres.</hi> What Tales ſoe're they tell of other <hi>Beings,</hi> they will ſtill keep their own coun<g ref="char:EOLhyphen"/>ſel; and whenſoe're they <hi>break</hi> (like to great Tra<g ref="char:EOLhyphen"/>ders here on earth) their breach ſhall be the worlds ſurprize: <hi>Of that day knoweth none.</hi> Their <hi>Prophecy</hi> in that, is ſilent as their <hi>Harmony;</hi> yet ſuch a day there will be: But the queſtion is,
+<q>
+                     <p>
+                        <hi>Firſt,</hi> What Heavens ſhall be no more?</p>
+                     <p>
+                        <hi>Secondly,</hi> How ſhall they be no more?</p>
+                  </q>
+               </p>
+               <p>Firſt, <hi>What Heavens ſhall be no more?</hi> Beſides the <hi>Empyreal,</hi> or <hi>Supreme, Philoſophers</hi> compute the <hi>num<g ref="char:EOLhyphen"/>ber</hi> of the <hi>Orbs</hi> (counting the <hi>Fire</hi> and <hi>Air</hi>) to be eleven. But the great Biſhop of <hi>Hippo</hi> (reflecting on the rapture of S<hi rend="sup">t</hi> 
+                  <hi>Paul</hi> into the <hi>third Heaven,</hi> where he had the glimpſe of great, unutterable glo<g ref="char:EOLhyphen"/>ries) concludes the <hi>Empyreal</hi> (the Heaven of Gods more immediate ſplendor, and the receptacle of the bleſs'd, to ſee him, as 'twere, <hi>face to face</hi>) to be the <hi>third Heaven;</hi> computing none beſides, excepting the <hi>Sydereum &amp; Aereum,</hi> the <hi>Starry</hi> and the <hi>Aery.</hi>
+               </p>
+               <p>But be they more, or be they leſs, the <hi>Heaven</hi> of <hi>heavens</hi> is generally exempted from <hi>diſſolution:</hi> which ſome conclude from <hi>Thy Throne is eſtabliſhed for ever.</hi> So that, of all the reſt, although we cannot certainly determine what is their <hi>number,</hi> yet we may conclude a little of their <hi>nature;</hi> though we are <hi>inſecure</hi> how many they be, yet we may well be <hi>reſolute</hi> what they ſhall be, or rather what they ſhall not be, <hi>They ſhall be no more:</hi> But</p>
+               <pb n="41" facs="tcp:44958:22"/>
+               <p> Secondly, <hi>How no more? They ſhall periſh</hi>
+                  <note n="(t)" place="margin">Hebr. r. 11.</note> Now what ſhould be this <hi>periſhing,</hi> but their <hi>change?</hi> For as mans <hi>death</hi> is call'd a <hi>change
+<note n="(u)" place="margin">Job 14.14.</note>, I will wait till my change come:</hi> So the <hi>Heavens change</hi> is call'd a <hi>death,</hi> or <hi>periſhing;</hi> for, that the word <hi>(periſh)</hi> im<g ref="char:EOLhyphen"/>ports no more in the forecited place to the <hi>Hebrews,</hi> is evident from the enſuing <hi>Verſe, As a veſture ſhalt thou fold them up, and they ſhall be changed.</hi>
+               </p>
+               <p>Nay, this very place, <hi>the Heavens ſhall be no more,</hi> is (in the <hi>vulgar Latin</hi>) <hi>atteratur Coelum,</hi> till the Hea<g ref="char:EOLhyphen"/>vens be worn away, not annihilated. <hi>Worn like an old Garment,</hi> Pſal. 102. Man is the <hi>little world,</hi> and as his <hi>Cloaths</hi> cover him, ſo the <hi>Heavens</hi> cover the <hi>great world, Tegit omnia Coelum.</hi> Hence,
+<note place="margin">
+                     <hi>Ovid.</hi>
+                  </note> when we Travel, <hi>Lucretius</hi> tells us, <hi>We change the cloathing of Heaven</hi>
+                  <note n="(w)" place="margin">
+                     <hi>Coeli<g ref="char:EOLhyphen"/>mutamus ami<g ref="char:EOLhyphen"/>ctum.</hi>
+                  </note>. Conformable to this is even the <hi>Sep<g ref="char:EOLhyphen"/>tuagint,</hi> in this of <hi>Job,</hi> which renders it, <hi>Till the Hea<g ref="char:EOLhyphen"/>vens be
+<note n="*" place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>. No more be ſow'd together.</note> unſow'd.</hi> How has <hi>God</hi> cloath'd the <hi>Macrocoſme,</hi> as we the <hi>Microcoſme,</hi> with the beſt Cloaths on the outſide? We all, at <hi>great Solemnities,</hi> contrive to habit our ſelves after the <hi>newest faſhion:</hi> Lo, then ſhall <hi>Christ</hi> appear in <hi>Solemn Triumph;</hi> Lo, then ſhall be the <hi>Marriage of the Lamb;</hi> and then the <hi>world</hi> ſhall change its faſhion too: <hi>The faſhion of this world paſſes away</hi>
+                  <note n="(x)" place="margin">1 Cor. 7.31.</note>. When <hi>Sunday</hi> comes, 'tis generally entertain'd with <hi>Citizens</hi> beſt Cloaths; Lo, then the <hi>Sabbath</hi> of the <hi>Saints</hi> ſhall come; then the <hi>Lords day;</hi> the <hi>day</hi> of the <hi>Sun</hi> of <hi>Righteouſneſs;</hi> and then the <hi>
+                     <g ref="char:V">Ʋ</g>niverſe</hi> ſhall be aray'd in <hi>cleaner</hi> and <hi>more ſplendid Veſtments.</hi>
+               </p>
+               <p>Now <hi>Job's, ſhall be no more;</hi> is S<hi rend="sup">t</hi> 
+                  <hi>Peter's, ſhall paſs away, whil'st the Elements melt for fervent heat</hi>
+                  <note n="(y)" place="margin">2 Pet. 3.10.</note>.
+<pb n="42" facs="tcp:44958:23"/>Now, whatſoever melts, melts not to nothing, but into ſubſtance of a purer nature; ſo likewiſe, <hi>to paſs away,</hi> is not <hi>to ceaſe to be,</hi> but to be vary'd in its place or properties. <hi>Heaven and Earth ſhall paſs away,</hi> ſayes our <hi>Saviour;</hi> and <hi>there ſhall be new Heavens, and a new Earth,</hi> ſayes S<hi rend="sup">t</hi> 
+                  <hi>Peter</hi>
+                  <note n="(z)" place="margin">2 Pet. 3.13.</note>. Both theſe are uni<g ref="char:EOLhyphen"/>ted, <hi>Rev.</hi> 21.5. <hi>Behold, I make all things new.</hi> Now, <hi>to make all things new,</hi> is not <hi>to make all things nothing;</hi> no more than <hi>mending</hi> is <hi>deſtroying. To be no more,</hi> than, <hi>is to paſs into new;</hi> and 'tis not needleſs to ob<g ref="char:EOLhyphen"/>ſerve that <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>to change,</hi> is render'd <hi>Pſal.</hi> 90.9. <hi>by paſſing away,</hi> or <hi>paſſing over:</hi> from whence the world is ſtil'd <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>a change,</hi> or <hi>paſſing over.</hi>
+               </p>
+               <p>But you may ask, <hi>What change is this?</hi>
+               </p>
+               <p>'Tis not a change of <hi>ſubſtance,</hi> but of <hi>accidents;</hi> Heavens ſhall not <hi>abſolutely</hi> ceaſe to be, but to be as they are; ſo alſo the Elements. <hi>All compound Beings</hi> (except mans <hi>Body,</hi> which muſt ſubſiſt with the <hi>Soul</hi>) ſhall <hi>lay aſide</hi> their Eſſence. <hi>Birds,</hi> and <hi>Beaſts,</hi> and <hi>Fiſh,</hi> ſo likewiſe <hi>Trees</hi> and <hi>Plants,</hi> which owe their <hi>Beings</hi> to their <hi>Compoſitions,</hi> ſhall bid <hi>farewell</hi> to Na<g ref="char:EOLhyphen"/>ture; when every Element <hi>ſhall challenge</hi> from them, what each <hi>contributed</hi> to their compoſure. <hi>Earth</hi> ſhall retreat to <hi>Earth, Water</hi> to <hi>Water;</hi> and whatſo<g ref="char:EOLhyphen"/>ever <hi>Fire</hi> or <hi>Air beſtow'd,</hi> for ever <hi>ſhall recede</hi> into its native properties.</p>
+               <p>But for more ſimple and unblended Natures, their <hi>change</hi> ſhall be but a <hi>refining.</hi> Some
+<note n="(a)" place="margin">
+                     <hi>Greg. Bed. Gloſſ.</hi>
+                  </note> have con<g ref="char:EOLhyphen"/>ceiv'd indeed, <hi>That Fire and Water ſhould both be total<g ref="char:EOLhyphen"/>ly conſum'd, whil'st Earth and Air ſhould be no more than mended.</hi> But this the reſt reject. <hi>Aquinas</hi>
+                  <note n="(b)" place="margin">
+                     <hi>Aquin. in</hi> 2 Pet. 3.</note> thinking, <hi>that Fire and Water ſhould but loſe their heat
+<pb n="43" facs="tcp:44958:23"/>and cold.</hi> But that were neither to be <hi>Fire</hi> nor <hi>Wa<g ref="char:EOLhyphen"/>ter.</hi> But that <hi>Lorinus</hi> candidly expounds him, <hi>That by their loſing heat and cold,</hi> he means, <hi>that heat and cold ſhould be reſtrain'd from acting.</hi>
+               </p>
+               <p>As is the <hi>change</hi> with the <hi>Elements,</hi> ſo with the <hi>Heavens;</hi> the variation's not of <hi>things,</hi> but <hi>qualities. Ariſtotle</hi> pronounced <hi>Heaven incorruptible;</hi> and ſo it is indeed as to its fitneſs for <hi>duration,</hi> (which the <hi>Schools</hi> call <hi>its internals</hi>) but not as to its <hi>power,</hi> ab<g ref="char:EOLhyphen"/>ſtracted from <hi>divine diſpoſure</hi>
+                  <note n="*" place="margin">
+                     <hi>Ab intrirſe<g ref="char:EOLhyphen"/>co Coelos eſſe incorruptibt<g ref="char:EOLhyphen"/>l<gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s, communis Scholaſtico<g ref="char:EOLhyphen"/>rum eſt opinio.</hi> i. e. <hi>ſecundum ſabſtantiam &amp; aptitudinem, non diſpoſitio<g ref="char:EOLhyphen"/>nem divinam &amp; actum.</hi> Lo<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. in Pſal. 102.19.</note>; for whatſoe're at firſt <hi>reſults</hi> from nothing, by the ſame vertue, may <hi>relapſe</hi> into nothing; or, as the cauſe of its <hi>first being</hi> plea<g ref="char:EOLhyphen"/>ſes, be vary'd from its <hi>preſent being.</hi> Therefore <hi>THO<g ref="char:V">Ʋ</g> ſhalt change them
+<note n="(c)" place="margin">Pſal. 102.26.</note>. By which change,</hi> ſayes <hi>Lori<g ref="char:EOLhyphen"/>nus
+<note n="(d)" place="margin">
+                        <hi>De ſola nonnulla reno<g ref="char:EOLhyphen"/>vatione, per vacationem à mo<gap reason="illegible: faint" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>u &amp; actu &amp; miniſterio in res ſublu<g ref="char:EOLhyphen"/>nares, homi<g ref="char:EOLhyphen"/>nemque vitam ducentem mortalem.</hi> Ibid.</note>, is meant ſome kind of renewing, by a vaca<g ref="char:EOLhyphen"/>tion from Motion and Action, and influence on Subluna<g ref="char:EOLhyphen"/>ries, and on Man leading a mortal life.</hi> And thus be<g ref="char:EOLhyphen"/>ing alter'd, they will better ſuit with the condition of renew'd Mankind. In which, S<hi rend="sup">t</hi> 
+                  <hi>Auſtin</hi> tells us, <hi>That at the general Conflagration, thoſe qualities of the corrup<g ref="char:EOLhyphen"/>tible Elements (which agreed well enough with our cor<g ref="char:EOLhyphen"/>ruptible Bodies) ſhall utterly periſh by Combuſtion; And the ſame ſubſtance ſhall (by miraculous change) acquire qualities convenient for immortal Bodies; to the end, that the world, being renewed for the better, may the bet<g ref="char:EOLhyphen"/>ter ſuit with men renew'd for the better in their fleſh</hi>
+                  <note n="(e)" place="margin">
+                     <hi>Conflagratione mund<gap reason="illegible: faint" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>â Elementorum corruptibilium qualitates, quae corporibus noſtris corruptibi<gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ibus congruchant, ardend<gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> penitus interibunt; Atque ipſ<gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> ſubſtantia eas qualitates habebit, quae corporibus immor<g ref="char:EOLhyphen"/>talibus mirabili mutatione conventant. Ut ſcilicent mundus in melius inroua<gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>us, apt<gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> accommodetur hominibus etiam in carne meliùs innovatis.</hi> Aug. de Civ. Dei. lib. 20. cap. 16.</note>.</p>
+               <pb n="44" facs="tcp:44958:24"/>
+               <p> From theſe things then we may raiſe theſe Conclu<g ref="char:EOLhyphen"/>ſions.</p>
+               <list>
+                  <item>1. <hi>That the Heavens ſhall no more meaſure time;</hi> For,</item>
+                  <item>2. <hi>Time ſhall be no more,</hi> Rev. 10.6. And hence indeed, in proper ſpeech, <hi>the Heavens ſhall be no more. Shall,</hi> is the <hi>Future Tenſe;</hi> but in <hi>Eterni<g ref="char:EOLhyphen"/>ty</hi> there's no <hi>Futurity.</hi> Now when there is <hi>no time,</hi> but <hi>all Eternity,</hi> who can, without <hi>great impropriety,</hi> ſay <hi>the Heavens ſhall be;</hi> when, <hi>Shall,</hi> imports a time to come?</item>
+                  <item>3. <hi>If no time, then no motion; for time is the mea<g ref="char:EOLhyphen"/>ſure of motion</hi>
+                     <note n="(f)" place="margin">
+                        <hi>Tempus eſt menſura motus; omnis motus eſt in tempore.</hi>
+                     </note>: and therefore</item>
+                  <item>4. <hi>No more action; for without motion, there is no action in Naturals.</hi>
+                  </item>
+                  <item>5. Therefore <hi>no more influence on Sublunaries; for without action, no influence:</hi> therefore</item>
+                  <item>6. <hi>No more generation nor corruption; for theſe are not without influence.</hi> Thus then, <hi>the Heavens ſhall be no more:</hi> And now</item>
+               </list>
+            </div>
+            <div n="4" type="part">
+               <pb n="45" facs="tcp:44958:24"/>
+               <head>IV. <hi>Man ſhall awake, and be raiſed out of his ſleep.</hi>
+               </head>
+               <p>Methinks I ſee his <hi>Body</hi> now begin to be again. Methinks I ſee the <hi>Sea</hi> (like <hi>Jonah</hi>'s Whale) <hi>ſurren<g ref="char:EOLhyphen"/>dring</hi> what it had long time <hi>conceal'd.</hi> Methinks I ſee <hi>Men bolting</hi> from the <hi>Earth,</hi> like <hi>Rabbets</hi> from their <hi>Warrens.</hi> Some from the <hi>Waves,</hi> ſome from the <hi>Graves</hi> I ſee, juſt <hi>waken'd</hi> by the <hi>Trump;</hi> and <hi>ſhaking off,</hi> ma<g ref="char:EOLhyphen"/>ny their <hi>dew,</hi> and many more their <hi>duſt:</hi> For <hi>they muſt awake, they muſt be raiſed out of their ſleep.</hi>
+               </p>
+               <p>But it may be of uſe to mind the expreſſion; 'tis <hi>they ſhall be rais'd,</hi> not by their <hi>vertue,</hi> but ſome others <hi>power. But what is his Name, if thou canst tell? 'Tis my Redeemer; I know that my Redeemer lives, and he ſhall raiſe me up at the last day</hi>
+                  <note n="(g)" place="margin">Job 19.25.</note>.</p>
+               <list>
+                  <item>
+                     <hi>My Redeemer</hi>] There's God's power.</item>
+                  <item>
+                     <hi>Shall raiſe me up</hi>] There's <hi>Job</hi>'s aſſurance.</item>
+                  <item>
+                     <hi>At the laſt day.</hi>] There's the time preſcrib'd.</item>
+               </list>
+               <list>
+                  <item>
+                     <hi>My Redeemer lives</hi>] 1. To confute the <hi>Jews,</hi> who diſown his Reſurrection. 2. To prove that he alſo ſhall raiſe us up. <hi>Christ the firſt-fruits; afterwards, they that are Chriſts,</hi> 1 Cor. 15. For,</item>
+                  <item>
+                     <hi>He ſhall raiſe me up</hi>] To refute thoſe who repute our expectation of reduction from the <hi>Grave,</hi> as a <hi>Dream.</hi>
+                  </item>
+                  <item>
+                     <hi>At the last day</hi>] To confute <hi>Hymeneus Philetus,</hi> and <hi>Hermogenes,</hi> who concluded the <hi>Reſurrection</hi>
+                     <pb n="46" facs="tcp:44958:25"/>already <hi>accompliſh'd,</hi> becauſe 'tis <hi>recorded</hi> that the <hi>Bodies of the Saints aroſe,</hi> Matth. 27. So holy <hi>Job</hi> (even in the Text) ſuppoſes and implies, what there he expreſſes, <hi>viz. That when the Hea<g ref="char:EOLhyphen"/>vens ſhall be no more, Man ſhall be raiſed.</hi>
+                  </item>
+               </list>
+               <list>
+                  <item>1. Then <hi>he ſhall awake, ariſe:</hi>
+                  </item>
+                  <item>2. <hi>How ſhall he be raiſed?</hi> But</item>
+               </list>
+               <div n="1" type="section">
+                  <head>1. <hi>Mans Body ſhall ariſe.</hi>
+                  </head>
+                  <p>Theſe very <hi>Numerical</hi> Bodies; theſe that we <hi>ſin'd</hi> in, or <hi>repented</hi> in. Methinks I hear the <hi>Trumpet</hi> ſound a <hi>Call;</hi> wherefore Awake, Awake! Whoe're, Where're, Howe're you are. <hi>Whoe're</hi> have been de<g ref="char:EOLhyphen"/>vour'd by Wolves, thoſe Wolves being ſtrait devou<g ref="char:EOLhyphen"/>red by Lyons, thoſe Lyons dying and ſtrait devour'd by Kites! <hi>Whoe're</hi> to Fiſhes have been made a Prey, which even themſelves have ſoon become a Prey to other Fiſhes! <hi>Whoe're</hi> you are, that in your Bodies have perform'd the Stages (which fond <hi>Pythagoras</hi> preſcrib'd to Souls) in journeys through each vari<g ref="char:EOLhyphen"/>ous kind of <hi>Beaſts! Whoe're</hi> you are, have been re<g ref="char:EOLhyphen"/>duc'd to duſt, and diſſipated through the ſpacious world, till every duſt has been remov'd a Mile from duſt of kin to it! <hi>Awake, Awake;</hi> indeed <hi>you must awake.</hi> 'Tis a reſiſtleſs power that raiſes you. <hi>'Tis God ſhall raiſe the dead,</hi> Acts 26.8.</p>
+                  <p>But ſome may ask,
+<label type="milestone">
+                        <seg type="milestoneunit">Query. </seg>
+                     </label> 
+                     <hi>What if a Man devour thoſe of his own ſpecies? What if</hi> Claudius <hi>devour</hi> Sempronius, <hi>and (after time for due digeſting him)</hi> Claudius <hi>him<g ref="char:EOLhyphen"/>ſelf
+<pb n="47" facs="tcp:44958:25"/>become anothers Meal? How ſhall</hi> Sempronius (<hi>and others in the like capacity) be raiſed up in his own Nu<g ref="char:EOLhyphen"/>merical Body, unleſs whatſoever was eaten by</hi> Claudius, <hi>(and may be conceiv'd to have become a part of his Body) be reſtored? Which if it be, How then ſhall</hi> Claudius <hi>riſe with his Numerical Body?</hi>
+                  </p>
+                  <p>This is the <hi>Query</hi> which Objectors think,
+<label type="milestone">
+                        <seg type="milestoneunit">Solut. </seg>
+                     </label> is of itſelf enough to make a <hi>Sadduce.</hi> But 'tis indeed a trivial doubt, and of no force to any but the willing. For 'tis not <hi>he ſhall ariſe,</hi> (as I obſerv'd before) but <hi>he ſhall be raiſed;</hi> which includes an unreſtrained power to be the Agent: and 'tis the ſame <hi>Almighty Power</hi> which does ſupport the living. That God ſhall <hi>raiſe</hi> Man, who now <hi>ſeeds</hi> Man. He needs no aid of <hi>meat</hi> to keep a Creature living. How obvious may we then conceive it (though <hi>Claudius</hi> do devour <hi>Sem<g ref="char:EOLhyphen"/>pronius</hi>) for God to ſtrengthen <hi>Claudius,</hi> and ſupport him, without permitting any of <hi>Sempronius</hi> to be concocted into his conſtitution; eſpecially ſince he compos'd <hi>not Man,</hi> to be <hi>Mans food?</hi>
+                  </p>
+                  <p>But now what think you, if even to <hi>Reaſon</hi> (for at that Weapon they muſt be encounter'd, who con<g ref="char:EOLhyphen"/>tradict this <hi>Doctrine</hi>) I ſay, what if to <hi>Reaſon</hi> 'tis a thing impoſſible, but of the <hi>ſelf-ſame Body</hi> there muſt be infallibly a <hi>Reſurrection?</hi> Not to trace all the <hi>Cau<g ref="char:EOLhyphen"/>ſes</hi> back up to the firſt, to prove a God accompliſh'd in whate're <hi>good reaſon</hi> ere thought <hi>good.</hi> I ſhall ſuppoſe the <hi>Exiſtence of a Deity</hi> already granted, I know none deny it.</p>
+                  <pb n="48" facs="tcp:44958:26"/>
+                  <p> There being then a <hi>God,</hi> he muſt <hi>be just;</hi> but <hi>just</hi> he cannot be, without a <hi>Reſurrection:</hi> For (to mans eye) the worſt oft live and dye with leaſt misfortune. Now, if no <hi>vengeance</hi> ſeize them after death, where's then the <hi>Juſtice,</hi> and where's then the <hi>God?</hi> Will any ſay, that (after diſſolution) the Soul may <hi>ſuffer,</hi> and ſtill <hi>God</hi> be juſt, although the Body <hi>ſleeps?</hi> But if the Body ſhar'd in <hi>ſinning,</hi> and be exempted from the <hi>ſuf<g ref="char:EOLhyphen"/>fering,</hi> a Malefactor eſcapes: then where's the <hi>Juſtice?</hi> and next where's the <hi>God?</hi> Or will you ſay (as ſome are very forward) that <hi>Death</hi> it ſelf is the <hi>Bodies</hi> puniſhment?</p>
+                  <p>But I ſay (1.) the <hi>Soul</hi> and <hi>Body ſin'd</hi> together for each others greater ſatisfaction; in <hi>juſtice</hi> there<g ref="char:EOLhyphen"/>fore we may think, that they ſhould <hi>ſuffer</hi> together for each others greater affliction. But they by <hi>death</hi> (ſo far does it reſiſt their ſuffering together) are far remov'd aſunder; if <hi>death</hi> then be the <hi>Bodies</hi> ſole infliction, ſtill where's the <hi>Juſtice?</hi>
+                  </p>
+                  <p n="2">(2.) Can the <hi>Body</hi> be puniſh'd with what it never feels? But oft great Sinners ſink into the Grave, un<g ref="char:EOLhyphen"/>der a ſtupefaction of the ſenſes, and dye <hi>extempore.</hi> And if the <hi>fleſh</hi> do only ſuffer <hi>death,</hi> which brings no <hi>corporal pain</hi> for mighty <hi>corporal tranſgreſſions,</hi> ſtill where's the <hi>Juſtice?</hi>
+                  </p>
+                  <p n="3">(3.) The <hi>Body</hi> ſinning againſt an <hi>infinite Perſon,</hi> committed <hi>infinite ſin;</hi> for (as we ſee in Treaſon) the <hi>Object</hi> gives proportion to the <hi>Crime. Infinite ſin</hi> muſt have no <hi>finite ſuffering:</hi> But <hi>Death</hi> is a <hi>finite ſuf<g ref="char:EOLhyphen"/>fering;</hi> for that's accompliſh'd when the <hi>Soul</hi> is gone. If therefore <hi>Death</hi> be all the <hi>vengeance</hi> to the <hi>Body,</hi> where's ſtill the <hi>Juſtice?</hi> Will any ſay the <hi>Bodies</hi> be<g ref="char:EOLhyphen"/>ing
+<pb n="49" facs="tcp:44958:26"/>dead, and ſeparated from the Soul for ever, is its <hi>eternal puniſhment?</hi> But can there be <hi>puniſhment,</hi> and nothing <hi>ſuffer?</hi> As ſoon as dead, the <hi>humane Body</hi> is not; it was the <hi>humane Body</hi> when it ſin'd, by death it leaves to be the <hi>humane Body:</hi> And how can that, which <hi>is not,</hi> ſuffer? Or will you ſay (with <hi>Pompo<g ref="char:EOLhyphen"/>natius</hi>) that <hi>ſin</hi> is its own <hi>puniſhment? O ſtrange Phi<g ref="char:EOLhyphen"/>loſophy!</hi> And more <hi>ſtrange Juſtice!</hi> In all <hi>Philoſophy,</hi> the <hi>offence</hi> is ſtill cauſe to the <hi>puniſhment;</hi> if <hi>ſin</hi> then be the <hi>puniſhment</hi> to itſelf, 'tis its own <hi>cauſe,</hi> and 'tis its own <hi>effect:</hi> But others in <hi>Philoſophy</hi> will tell us, That <hi>Nihil est cauſa ſui ipſius</hi>
+                     <note n="(h)" place="margin">
+                        <hi>Quiſ<g ref="char:EOLhyphen"/>quam ne mor<g ref="char:EOLhyphen"/>ta<gap reason="illegible: faint" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ium idem vocat facinus &amp; poenam?</hi> Quintil.</note>; And in all Juſtice <hi>puniſh<g ref="char:EOLhyphen"/>ments</hi> deſign'd to <hi>mend</hi> the Sufferer, or to <hi>diſencourage</hi> others from the like offence. But what <hi>ſin</hi> ere (which had no other puniſhment) <hi>deter'd</hi> another from <hi>at<g ref="char:EOLhyphen"/>tempting</hi> it? And as for the <hi>Offender,</hi> I preſume none will conclude that <hi>ſin</hi> can much amend him. Many would wiſh their <hi>ſtrength</hi> might ne're <hi>decline,</hi> that they might ne're be <hi>impotent</hi> for <hi>ſin.</hi> If <hi>ſin</hi> be then its <hi>proper puniſhment?</hi> 'Tis a moſt ſtrange one, which the <hi>Offender</hi> ever would requeſt to undergo, and prize beyond rewards
+<note n="(i)" place="margin">
+                        <hi>Nulla<g ref="char:EOLhyphen"/>poena eſt niſi invito</hi> (&amp; alibi) <hi>Suppli<g ref="char:EOLhyphen"/>cium quiſquam vocat, ad quod proſilitur, quod expoſcitur.</hi> Quintil.</note>. If <hi>ſin</hi> were the <hi>ſole judgment</hi> on the <hi>Malefactor,</hi> O what a means had the <hi>Almighty</hi> found, to bring his <hi>Juſtice</hi> in contempt! And then where were his <hi>Wiſdom</hi> too? And then where the <hi>God?</hi>
+                  </p>
+                  <p>Therefore whoe're thou art, that art poſſeſs'd with <hi>Dreams</hi> like theſe, <hi>Awake thou that ſleepest,</hi> leſt ere thou dream'ſt of it, it may be ſaid, <hi>Awake, and come to judgment:</hi> But</p>
+               </div>
+               <div n="2" type="section">
+                  <pb n="50" facs="tcp:44958:27"/>
+                  <head>2. <hi>How ſhall Men ariſe? And with what Bodies ſhall they come?</hi>
+                  </head>
+                  <p>I anſwer with S<hi rend="sup">t</hi> 
+                     <hi>Paul,</hi> 1 <hi>Cor.</hi> 15. they ſhall riſe (1) <hi>Incorruptibly;</hi> it is rais'd in <hi>incorruption,</hi> ver. 42. (2) <hi>Gloriouſly;</hi> it is rais'd in <hi>glory,</hi> ver. 43. (3) <hi>In agility;</hi> it is rais'd in <hi>power,</hi> ver. 43. <hi>tanta facilitas, quanta faelicitas,</hi> ſayes S<hi rend="sup">t</hi> 
+                     <hi>Auſtin.</hi> (4) <hi>Very near to the nature of Angels;</hi> much more reſin'd than former<g ref="char:EOLhyphen"/>ly; not only from <hi>carnal luſts,</hi> but alſo from the <hi>groſs<g ref="char:EOLhyphen"/>neſs</hi> of our ſubſtances. The <hi>natural Elements</hi> ſhall be reſin'd, ſo ſhall our <hi>Bodies;</hi> it ſhall be rais'd <hi>a ſpiritual Body,</hi> ver. 44. Not but that we ſhall have <hi>fleſh</hi> and <hi>bones,</hi> and <hi>integral parts,</hi> anſwerable to the pattern of our <hi>Saviour</hi> after his Reſurrection, <hi>Luke</hi> 24.39. <hi>Handle me, and ſee, for a ſpirit has not fleſh and bones, as ye ſee me have.</hi> But yet improv'd they ſhall be much.</p>
+                  <p>
+                     <hi>Aquinas</hi>
+                     <note n="(k)" place="margin">in Eph. 4 ver. 13. <hi>Corpus Chriſti fuit perd<gap reason="illegible: faint" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ction ad plenam ae<g ref="char:EOLhyphen"/>tem virilem (ſcilicet</hi> 33 <hi>annorum) in quâ mertuus eſt; huſuſ<gap reason="illegible: faint" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>to<g ref="char:EOLhyphen"/>di autem aeta<g ref="char:EOLhyphen"/>tis plenitudini corform<gap reason="illegible: faint" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>itur aetas ſanctorum reſurg<gap reason="illegible: faint" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>tium.</hi> So a ſo the Author of theſe Sermons or Homilies father'd on St <hi>Ambroſe,</hi> vol. 3. pag. 44. <hi>Ibi enim nec infa<gap reason="illegible: faint" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>s nec ſenex, nec parvus erit, qui non impleat dies ſuos; utpote ſilius reſur<g ref="char:EOLhyphen"/>rectionis &amp; in menſuram venict plenitudinis Chriſti, ut nec deſint ali<gap reason="illegible: faint" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ui annorum ſpa<g ref="char:EOLhyphen"/>cia, nec ſuperſint.</hi>
+                     </note> yet goes further, and aſſures us, <hi>That we ſhall riſe in the complete age of our Saviour,</hi> viz. 33 <hi>years old.</hi> For whereas we read, <hi>Till we all come in the unity of the Faith, and of the knowledge of the Son of God to a perfect Man, to the meaſure of the STA<g ref="char:EOLhyphen"/>T<g ref="char:V">Ʋ</g>RE of the fulneſs of Christ,</hi> he (as alſo our <hi>old Tranſlations</hi>) reads <hi>the meaſure of the AGE of the fulneſs of Christ.</hi> But this we ſafely may leave undetermin'd, being aſſur'd that Man ſhall awake deſtitute of nothing eſſential to his perfection, but not ſo ſecure of what God may eſteem ſo eſſential.</p>
+                  <pb n="51" facs="tcp:44958:27"/>
+                  <p> But this is the <hi>Reſurrection</hi> of thoſe who have part in the <hi>firſt</hi> Reſurrection. Others ſhall want the <hi>glory;</hi> but yet ſhall be endu'd with bodies, <hi>free from corruption;</hi> to protract their <hi>torture</hi> to eternity; with bodies <hi>agile,</hi> to entitle them to the greater <hi>reſtleſsneſs;</hi> for the more <hi>active</hi> the <hi>Sufferer,</hi> the more <hi>tormenting</hi> the <hi>Chains</hi> and <hi>Anguiſh.</hi> Nor ſhall he want the preju<g ref="char:EOLhyphen"/>dice of a <hi>refin'd body,</hi> that all his <hi>ſenſes</hi> may be more <hi>acute,</hi> for entertaining each its <hi>proper torment</hi> to the moſt high improvement.</p>
+                  <p>So now we ſee <hi>Men ſhall be raiſed up;</hi> and we ſee how. Unhappy then are they, that <hi>put far from them here the evil day; to be ſhut up in worst of nights here<g ref="char:EOLhyphen"/>after.</hi> Woe to him, that <hi>eats and drinks, becauſe to morrow he ſhall dye;</hi> ſince, <hi>after that to morrow,</hi> he muſt riſe, and be <hi>waken'd out of his ſleep.</hi> But happy he, thrice happy, who being to forego his life, <hi>hid it with Christ in God;</hi> at the laſt day they ſhall know where to find it. In the mean time <hi>fooliſh</hi> are thoſe that <hi>la<g ref="char:EOLhyphen"/>ment</hi> him, ſince they again ſhall ſee him, if yet they are not ſtill more <hi>fooliſh,</hi> by their neglecting to lie down like him. How is our <hi>induſtry</hi> concern'd, to care that our <hi>upriſe</hi> be to felicity? <hi>by death to ſin, and riſing again to newneſs of life,</hi> to furniſh our ſelves for a Reſurrection free from a <hi>ſecond death.</hi>
+                  </p>
+                  <p>And will you know how 'tis to be atchiev'd? By doing ſo, as did the Subject of this dayes Solemnity. If you expect her <hi>Character,</hi> conſult each man his loſs in her <hi>departure.</hi> None need commend an abſent Friend to thoſe, who by that abſence find much detriment. Go ask the <hi>Poor,</hi> Go ask the <hi>Sick,</hi> whoſe <hi>Conſolation</hi> and <hi>Relief</hi> are now in a great meaſure gone to <hi>Hea<g ref="char:EOLhyphen"/>ven</hi> with her. How have the glories of the ancient
+<pb n="52" facs="tcp:44958:28"/>Heroes liv'd in Records of blackeſt Ink? So 'tis with her, for in our <hi>ſable fortunes,</hi> in our <hi>dark wants,</hi> her worth is largely written. We need no tedious toil to prove her <hi>happy,</hi> as to her <hi>Soul,</hi> and ready for the <hi>Reſurrection,</hi> as to her <hi>Body;</hi> our greateſt Task will be (not to learn <hi>how ſhe is,</hi> but) to be <hi>like her,</hi> fit for <hi>our going,</hi> and <hi>our Saeviours coming.</hi>
+                  </p>
+                  <p>But you'll ask <hi>how?</hi> Let the <hi>Apoſtle</hi> tell you; St <hi>Peter,</hi> deſigning to diſplay Chriſts <hi>dreadful coming</hi> in his <hi>third Chapter</hi> of his <hi>ſecond Epiſtle,</hi> endeavors to prepare men for it in his <hi>first Chapter,</hi> adviſing <hi>dili<g ref="char:EOLhyphen"/>gence</hi> in procuring</p>
+                  <p n="1">1. <hi>Faith,</hi> which believes <hi>God true</hi> in all his <hi>promi<g ref="char:EOLhyphen"/>ſes,</hi> which teaches <hi>Man</hi> to lay aſide his <hi>Reaſon,</hi> that ſo he may be <hi>more</hi> than Man, and apprehend things much beyond the <hi>reach</hi> of <hi>natural capacity. Faith is the evidence of things not ſeen. Faith,</hi> which layes all our ſins down at <hi>Chriſts Croſs. Faith,</hi> which applies Chriſts merits to our ſelves. In ſhort, <hi>Faith,</hi> which depends on the <hi>Fathers</hi> mercy, through the <hi>Sons</hi> ſuf<g ref="char:EOLhyphen"/>ferings and interceſſion, by the <hi>Spirits</hi> ſupport and conſolation, to evade deſerved <hi>deſtruction,</hi> and attain moſt undeſerved <hi>bliſs:</hi> therefore to wake to happi<g ref="char:EOLhyphen"/>neſs, take <hi>Faith,</hi> and add to your <hi>Faith</hi>
+                  </p>
+                  <p n="2">2. <hi>Virtue.</hi> Not <hi>Virtue</hi> in the <hi>general,</hi> becauſe <hi>Tem<g ref="char:EOLhyphen"/>perance</hi> follows as a <hi>particular;</hi> but <hi>Virtue,</hi> i. e. <hi>Forti<g ref="char:EOLhyphen"/>tude</hi> or <hi>Valor.</hi> For ſo is <hi>Virtus</hi> render'd, when im<g ref="char:EOLhyphen"/>porting a ſingle Virtue. Some <hi>Grammarians</hi> will in<g ref="char:EOLhyphen"/>forms us that it ſignifies <hi>Manhood,</hi> from <hi>Vir</hi> in the <hi>La<g ref="char:EOLhyphen"/>tine;</hi> and <hi>Courage,</hi> from <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, the <hi>God of War,</hi> in the <hi>Greek,</hi> from whence comes <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. Join to thy <hi>Faith
+<pb n="53" facs="tcp:44958:28"/>Fortitude. Fortitude,</hi> that nothing may enfeeble thy <hi>Reſolves;</hi> That no <hi>bad Times</hi> prevail upon thy <hi>Prin<g ref="char:EOLhyphen"/>ciples,</hi> though <hi>thouſands</hi> on thy left hand tumble down, and break the neck of <hi>Conſcience,</hi> to preſerve the <hi>lives</hi> of their Eſtates or Liberties; though at ſome other time (even in thy greateſt danger) thou ſhalt diſcern the <hi>fall</hi> of a <hi>lov'd Friend,</hi> ſubmitting to the frequent menaces and haughty looks of an <hi>outlandiſh Foe;</hi> yet ſtill keep <hi>Fortitude, that thou may'ſt ſtand in the evil day; and when thou hast done all, may'ſt ſtand.</hi> But yet to this <hi>Virtue,</hi> muſt be added.</p>
+                  <p n="3">3. <hi>Knowledge,</hi> whereby you may diſcern 'twixt <hi>good</hi> and <hi>bad,</hi> and not be lead by an <hi>implicite Creed;</hi> but <hi>have a Faith according to knowledge,</hi> and <hi>be able to give a reaſon of the Faith that is in you.</hi> In vain is <hi>Courage,</hi> where there is no <hi>Sight;</hi> what ſignifies <hi>ſtout Hands,</hi> and ne're an <hi>Eye?</hi> Not that we ſhould with too much eagerneſs purſue <hi>Speculations;</hi> nor <hi>read much,</hi> that we may know how to <hi>talk much,</hi> but ſtudy <hi>to know Christ, and him crucifi'd; For it is life eternal to know God, and Jeſus Christ whom he hath ſent;</hi> there<g ref="char:EOLhyphen"/>fore to wake to <hi>Happineſs,</hi> take <hi>Knowledge,</hi> and to that add</p>
+                  <p n="4">4. <hi>Temperance.</hi> By <hi>Fortitude,</hi> Man overcomes an<g ref="char:EOLhyphen"/>other; by <hi>Temperance,</hi> himſelf. Not only in affair of <hi>Eating,</hi> of <hi>Drinking,</hi> and of things of <hi>Pleaſure,</hi> but even of <hi>Paſſion</hi> too; ſtill entertaining from <hi>malevo<g ref="char:EOLhyphen"/>lent ſpirits</hi> whatever actions of hoſtility, yet keeping ſtill a <hi>temper</hi> that ſhall never vary with <hi>provocation.</hi> To <hi>Temperance</hi> add</p>
+                  <p n="5">
+                     <pb n="54" facs="tcp:44958:29"/> 5. <hi>Patience,</hi> which does empow'r a man to em<g ref="char:EOLhyphen"/>brace <hi>Affliction. Patience,</hi> which overcomes by being beaten, which <hi>lives</hi> on <hi>Death,</hi> and <hi>dyes</hi> for want of <hi>danger;</hi> for where no <hi>peril</hi> is, no <hi>patience</hi> can be. What although Children (which are at once <hi>mens images</hi> and <hi>hopes</hi>) lie down <hi>in Dust,</hi> and <hi>Graves</hi> (ſhort as their <hi>Lives</hi>) of a ſpan long? What though they fall greater, and of nearer expectation of Manhood? What although <hi>Wives,</hi> though <hi>Husbands, (excellent Husbands</hi>) languiſh, groan, and dye? What although <hi>cruel</hi> and <hi>prolong'd Diſtempers</hi> poyſon our <hi>Conſtituti<g ref="char:EOLhyphen"/>ons?</hi> And what though much more <hi>cruel Tongues</hi> poyſon our <hi>Reputations?</hi> Yet ſtill we muſt <hi>ſubmit</hi> to Gods diſpoſure, and <hi>gratefully receive</hi> whatever he per<g ref="char:EOLhyphen"/>mits to be inflicted; knowing that <hi>our Saviour enter'd not into joy,</hi> but <hi>first he ſuffer'd pain;</hi> that we, <hi>follow<g ref="char:EOLhyphen"/>ing the example of his patience, may (when the Hea<g ref="char:EOLhyphen"/>vens ſhall be no more) awake up after his likeneſs.</hi> But add to <hi>Patience</hi>
+                  </p>
+                  <p n="6">6. <hi>Godlineſs,</hi> which does enroll men <hi>Citizens of Heaven,</hi> whil'ſt they are <hi>Sojourners on earth.</hi> This does unteach <hi>remiſsneſs</hi> in <hi>Devotion,</hi> and ſuffers not mans <hi>Temporal Calamity</hi> to hinder or diſable <hi>Spiritual Pie<g ref="char:EOLhyphen"/>ty.</hi> This renders men zealous for <hi>Prayer,</hi> and ardent in it, forward themſelves, and inſtigating others. <hi>Above all things make ſupplication,</hi> ſayes the <hi>Apoſtle; First ſeek the Kingdom of Heaven,</hi> ſayes his <hi>Maſter; That when ye ſhall be rais'd, ye may awake to a new Heaven.</hi> Take</p>
+                  <p n="7">7. <hi>Brotherly Kindneſs,</hi> which teaches men not to
+<pb n="55" facs="tcp:44958:29"/>
+                     <hi>exalt</hi> themſelves, but <hi>clips</hi> the wings of <hi>Arrogance.</hi> It treats the <hi>loweſt</hi> and the <hi>pooreſt</hi> affably, inſtructing ev'n the <hi>powerful</hi> to bow, and condeſcend to the <hi>neceſſities</hi> of the moſt abject. <hi>All Mankind</hi> is our <hi>Brother earth,</hi> and each man ſhould <hi>be kind</hi> to his Brother earth; that when he ſhall <hi>be waken'd</hi> from his <hi>Mother earth,</hi> he may <hi>for ever live with God the Father of Heaven.</hi> But above all, take</p>
+                  <p n="8">8. <hi>Charity,</hi> which loves <hi>God</hi> above all things for his own ſake, and her <hi>Neighbour</hi> as herſelf for Gods ſake. <hi>Which doth not behave it ſelf unſeemly, ſeeketh not her own, is not eaſily provok'd, thinketh no evil, which beareth all things, believeth all things, hopeth all things, endureth all things</hi>
+                     <note n="(l)" place="margin">1 Cor. 13. vea. 5.7.</note>. Which <hi>relieves</hi> Friends, and <hi>remits</hi> Enemies, <hi>praying for thoſe that deſpitefully uſe her.</hi> This <hi>Virtue</hi> ſhall endure, when <hi>Faith</hi> and <hi>Hope</hi> are ſuperſeded by <hi>Fruition;</hi> this ſhall attend us, <hi>when they ſhall be no more, when the Heavens ſhall be no more, when we ſhall be awaken'd out of our ſleep.</hi> Therefore be diligent to get theſe Virtues, <hi>looking for Chriſts coming, that you may be found of him without ſpot and blameleſs,</hi> 2 Pet. 3.14.</p>
+                  <p>I have been long addreſſing to your <hi>Ears,</hi> now I apply my ſelf to your <hi>Memories.</hi> Out of S<hi rend="sup">t</hi> 
+                     <hi>Peter,</hi> I have read you words, how you may fit you for the <hi>Reſurrection;</hi> but if you'll learn by <hi>Deeds</hi>—then <hi>There</hi>'s the <hi>Text, Read it,</hi> and <hi>Read it well.</hi> O make the <hi>old Rule</hi> true, which tells us how much <hi>Preſident</hi> inſtructs beyond <hi>Precept. She dyed indeed,</hi> and there's <hi>our loſs indeed;</hi> but being <hi>dead, ſhe ſpeaks,</hi> there's our <hi>advantage;</hi> yea, and <hi>ſtill lives,</hi> there's <hi>her felicity. She
+<pb n="56" facs="tcp:44958:30"/>ſought for Health, Eternity ſhe found. In a ſtrange Countrey ſhe went to her long home, and travel'd herſelf into everlaſting rest.</hi> Like <hi>Iſrael, She</hi> went through <hi>Amalek</hi> to <hi>Canaan.</hi> We all deplor'd that <hi>her infirmi<g ref="char:EOLhyphen"/>ties</hi> would not diſpenſe with <hi>her abode</hi> with us; we coveted that <hi>She</hi> might reſide with us, but <hi>Provi<g ref="char:EOLhyphen"/>dence</hi> deny'd it: O let us then be <hi>ſedulous</hi> to live with <hi>her;</hi> that, <hi>Providence</hi> invites to. But of <hi>that life</hi> we muſt obtain <hi>fruition,</hi> by <hi>this</hi> lifes <hi>imitation;</hi> to accompany <hi>her in Heaven,</hi> we muſt purſue <hi>her on earth.</hi> What ſhall I ſay? <hi>Get Faith, get Virtue, get Wiſdom, get Temperance, get Patience, get Godlineſs, get Brother<g ref="char:EOLhyphen"/>ly Kindneſs,</hi> and <hi>get Charity.</hi> And theſe be diligent to get, and get them while 'tis <hi>call'd to day;</hi> when <hi>the night comes, farewell</hi> to <hi>diligence,</hi> to <hi>opportunity fare<g ref="char:EOLhyphen"/>well.</hi> For <hi>man lieth down, and riſeth not; till the Hea<g ref="char:EOLhyphen"/>vens be no more, they ſhall not wake, nor be raiſed out of their ſleep.</hi>
+                  </p>
+                  <p>
+                     <hi>Now to him that then ſhall wake us, the Watch<g ref="char:EOLhyphen"/>man of</hi> Iſrael, <hi>that never ſlumbers nor ſleeps, be Honour and Glory evermore.</hi> AMEN.</p>
+                  <trailer>FINIS.</trailer>
+                  <pb facs="tcp:44958:30"/>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
